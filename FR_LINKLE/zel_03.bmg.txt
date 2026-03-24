@@ -1,0 +1,4452 @@
+[
+    {
+        "Attribute Length": 20,
+        "Unknown MID1 Value": "1000"
+    },
+    {
+        "ID": "19, 136",
+        "index": "0x0",
+        "attributes": "1388000037000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "19, 137",
+        "index": "0x1",
+        "attributes": "1389000037000000ff00000004020400",
+        "text": [
+            "Oui, mais tiens-toi bien...",
+            "c'est l'humaine qui a gagné."
+        ]
+    },
+    {
+        "ID": "19, 138",
+        "index": "0x2",
+        "attributes": "138a000037000000ff0001000b000400",
+        "text": [
+            "Non, c'est vrrai??",
+            "J'aurrais jamais crru ça possible..."
+        ]
+    },
+    {
+        "ID": "19, 139",
+        "index": "0x3",
+        "attributes": "138b000037000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "19, 140",
+        "index": "0x4",
+        "attributes": "138c000037000000ff0002000d000400",
+        "text": [
+            "Si tu te rreposes dans les sourrces",
+            "therrmales, ton corrps se ",
+            "rréchauffe et tu {1a06ff000001}rreprrends ",
+            "des forrces{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "19, 141",
+        "index": "0x5",
+        "attributes": "138d000037000000ff0000000d000400",
+        "text": [
+            "Eh oui, même les Gorrons ",
+            "ont besoin de décomprresser ",
+            "de temps en temps!"
+        ]
+    },
+    {
+        "ID": "19, 142",
+        "index": "0x6",
+        "attributes": "138e000037000000ff0000000b030400",
+        "text": [
+            "Prrendrre un bain à ciel ouverrt, ",
+            "la nuit, c'est le pied! Je pourrrais ",
+            "passer des heurres à rregarrder",
+            "les étoiles dans le ciel..."
+        ]
+    },
+    {
+        "ID": "19, 143",
+        "index": "0x7",
+        "attributes": "138f000037000000ff0000000b030400",
+        "text": [
+            "Prrendrre un bain de bon matin,",
+            "c'est le pied! J'adorre rregarrder",
+            "le soleil se lever!"
+        ]
+    },
+    {
+        "ID": "19, 144",
+        "index": "0x8",
+        "attributes": "1390000037000000ff0000000b030400",
+        "text": [
+            "Prrendrre un bain le matin,",
+            "c'est le pied! Le petit-déjeuner",
+            "n'en est que meilleurr!"
+        ]
+    },
+    {
+        "ID": "19, 145",
+        "index": "0x9",
+        "attributes": "1391000037000000ff0000000b030400",
+        "text": [
+            "Les bains à ciel ouverrt, quel pied!",
+            "Je prréfèrre même prrendrre un ",
+            "bain à midi plutôt que de fairre ",
+            "la sieste!"
+        ]
+    },
+    {
+        "ID": "19, 146",
+        "index": "0xa",
+        "attributes": "1392000037000000ff0000000b030400",
+        "text": [
+            "Les bains à ciel ouverrt, quel pied!",
+            "Et le soirr, une petite brrochette de",
+            "rrochers et je suis le plus heurreux",
+            "des Gorrons!"
+        ]
+    },
+    {
+        "ID": "19, 147",
+        "index": "0xb",
+        "attributes": "1393000037000000ff00000003020400",
+        "text": [
+            "Oui, et cette fois l'humaine ",
+            "a fini parr battrre notrre doyen!"
+        ]
+    },
+    {
+        "ID": "19, 148",
+        "index": "0xc",
+        "attributes": "1394000037000000ff0000000b000400",
+        "text": [
+            "Incrroyable... C'est sûrrement",
+            "une sacrré bestiole, cet humaine..."
+        ]
+    },
+    {
+        "ID": "19, 149",
+        "index": "0xd",
+        "attributes": "1395000037000000ff0000000b000400",
+        "text": [
+            "J'aimerrais bien voirr sa tête, tiens!"
+        ]
+    },
+    {
+        "ID": "19, 150",
+        "index": "0xe",
+        "attributes": "1396000037000000ff00030000000400",
+        "text": [
+            "Monter la garrde, pff... Pourrquoi",
+            "est-ce que ça tombe surr moi?"
+        ]
+    },
+    {
+        "ID": "19, 151",
+        "index": "0xf",
+        "attributes": "1397000037000000ff00000004010400",
+        "text": [
+            "L'échelle est détrruite, alorrs je",
+            "ne vois pas comment un humain",
+            "pourrrait arrriver jusqu'ici..."
+        ]
+    },
+    {
+        "ID": "19, 152",
+        "index": "0x10",
+        "attributes": "1398000037000000ff00000000020400",
+        "text": [
+            "Si les doyens ont un prroblème, ils",
+            "devrraient demander de l'aide aux",
+            "humains. Mais ils ne veulent pas",
+            "perrdrre la face..."
+        ]
+    },
+    {
+        "ID": "19, 153",
+        "index": "0x11",
+        "attributes": "1399000037000000ff00040000000400",
+        "text": [
+            "Rrenvoyer les humains alorrs qu'ils",
+            "pourrraient nous aider, c'est",
+            "vrraiment un sale boulot..."
+        ]
+    },
+    {
+        "ID": "19, 154",
+        "index": "0x12",
+        "attributes": "139a000037000000ff00000004020400",
+        "text": [
+            "Pourrquoi est-ce que je dois fairre",
+            "le guet dans ce cul-de-sac?"
+        ]
+    },
+    {
+        "ID": "19, 155",
+        "index": "0x13",
+        "attributes": "139b000037000000ff00000000010400",
+        "text": [
+            "A moins que ce ne soit une rruse",
+            "pourr se débarrrasser de moi...?"
+        ]
+    },
+    {
+        "ID": "19, 156",
+        "index": "0x14",
+        "attributes": "139c000037000000ff00000000000400",
+        "text": [
+            "Grrr! Ça m'énerrve de me fairre",
+            "mettrre à l'écarrt dans ce coin",
+            "perrdu..."
+        ]
+    },
+    {
+        "ID": "19, 157",
+        "index": "0x15",
+        "attributes": "139d000037000000ff00000000000400",
+        "text": [
+            "Je vais leurr montrrer, moi!",
+            "Si je vois un type louche, je le ",
+            "frrapperrai de toutes mes forrces!"
+        ]
+    },
+    {
+        "ID": "19, 158",
+        "index": "0x16",
+        "attributes": "139e000037000000ff00050003000400",
+        "text": [
+            "Ouille! C'est chaud! Ce geyserr est",
+            "vrraiment placé au pirre endrroit",
+            "possible..."
+        ]
+    },
+    {
+        "ID": "19, 159",
+        "index": "0x17",
+        "attributes": "139f000037000000ff00000000000400",
+        "text": [
+            "Avec ça, le passage est",
+            "imprraticable..."
+        ]
+    },
+    {
+        "ID": "19, 160",
+        "index": "0x18",
+        "attributes": "13a0000037000000ff00000003010400",
+        "text": [
+            "Si j'essayais de passer, je me",
+            "ferrais éjecter en bas en moins",
+            "de deux..."
+        ]
+    },
+    {
+        "ID": "19, 161",
+        "index": "0x19",
+        "attributes": "13a1000037000000ff00000000000400",
+        "text": [
+            "Si j'avais des jambes aussi",
+            "puissantes que celles de notrre",
+            "chef, je pourrrais rrésister à",
+            "la prression."
+        ]
+    },
+    {
+        "ID": "19, 162",
+        "index": "0x1a",
+        "attributes": "13a2000037000000ff00000000000400",
+        "text": [
+            "Ce chemin mène à un lieu qui",
+            "est trrès imporrtant pourr nous."
+        ]
+    },
+    {
+        "ID": "19, 163",
+        "index": "0x1b",
+        "attributes": "13a3000037000000ff00000000020400",
+        "text": [
+            "Je ne laisserrai aucun humain, ",
+            "qui plus est étrranger, passer!"
+        ]
+    },
+    {
+        "ID": "19, 164",
+        "index": "0x1c",
+        "attributes": "13a4000037000000ff00000000000400",
+        "text": [
+            "Prrends ce monte-charrge, il mène",
+            "dirrectement aux sourrces chaudes!",
+            "Il suffit de peser de tout ton poids",
+            "surr l'interrrupteurr."
+        ]
+    },
+    {
+        "ID": "19, 165",
+        "index": "0x1d",
+        "attributes": "13a5000037000000ff00060005000400",
+        "text": [
+            "Hé, attends!"
+        ]
+    },
+    {
+        "ID": "19, 166",
+        "index": "0x1e",
+        "attributes": "13a6000037000000ff00000005000400",
+        "text": [
+            "Si tu veux rredescendrre, tu peux",
+            "utiliser cet ascenseurr!"
+        ]
+    },
+    {
+        "ID": "19, 167",
+        "index": "0x1f",
+        "attributes": "13a7000039000000ff00000000000400",
+        "text": [
+            "Rreviens un autrre jourr..."
+        ]
+    },
+    {
+        "ID": "19, 168",
+        "index": "0x20",
+        "attributes": "13a8000039000000ff00000000000400",
+        "text": [
+            "Pah... tu es courrageuse mais",
+            "tu n'es pas trrès forrte."
+        ]
+    },
+    {
+        "ID": "19, 169",
+        "index": "0x21",
+        "attributes": "13a9000039000000ff00000000000400",
+        "text": [
+            "Tu es en colèrre? Alorrs rreviens",
+            "sur le cerrcle m'affrronter!",
+            "Je te prréviens, l'issue ne fait",
+            "aucun doute!{1a05000020}"
+        ]
+    },
+    {
+        "ID": "19, 170",
+        "index": "0x22",
+        "attributes": "13aa000039000000ff00000000000400",
+        "text": [
+            "Eh bien alorrs, c'est tout?",
+            "C'est rridicule, va-t'en!"
+        ]
+    },
+    {
+        "ID": "19, 171",
+        "index": "0x23",
+        "attributes": "13ab000039000000ff00000000000400",
+        "text": [
+            "Tu es beaucoup trrop mince et",
+            "{1a06ff000001}trrop légère{1a06ff000000}. Tu n'as aucune chance!"
+        ]
+    },
+    {
+        "ID": "19, 172",
+        "index": "0x24",
+        "attributes": "13ac000037000000ff0000000b000400",
+        "text": [
+            "Ces jourrs-ci, les combats de sumo",
+            "se font rrarres... C'est dommage."
+        ]
+    },
+    {
+        "ID": "19, 173",
+        "index": "0x25",
+        "attributes": "13ad000037000000ff00000000000400",
+        "text": [
+            "Les jeunes d'aujourrd'hui ne",
+            "s'intérressent plus à cet arrt..."
+        ]
+    },
+    {
+        "ID": "19, 174",
+        "index": "0x26",
+        "attributes": "13ae000037000000ff00000004000400",
+        "text": [
+            "Gorr Cobalt en était le champion",
+            "incontesté, mais il est déjà si vieux",
+            "qu'on l'appelle \"le doyen\". On ne",
+            "peut rrien y fairre..."
+        ]
+    },
+    {
+        "ID": "19, 175",
+        "index": "0x27",
+        "attributes": "13af000037000000ff0000000b000400",
+        "text": [
+            "Depuis qu'il n'y a plus de sumo,",
+            "les sourrces chaudes sont le seul",
+            "plaisirr qui nous rreste."
+        ]
+    },
+    {
+        "ID": "19, 176",
+        "index": "0x28",
+        "attributes": "13b0000037000000ff0000000b000400",
+        "text": [
+            "Dites, patrron, vous avez entendu?",
+            "Il y a eu un combat de sumo!",
+            "Le prremier depuis des lunes",
+            "et des lunes!"
+        ]
+    },
+    {
+        "ID": "19, 177",
+        "index": "0x29",
+        "attributes": "13b1000037000000ff00000003000400",
+        "text": [
+            "Oui, oui! Je suis au courrant...",
+            "On dit que le doyen s'est battu",
+            "contrre une humaine."
+        ]
+    },
+    {
+        "ID": "19, 178",
+        "index": "0x2a",
+        "attributes": "13b2000037000000ff0000000b000400",
+        "text": [
+            "Mais je ne sais pas qui a gagné...",
+            "Vous savez, vous, patrron?"
+        ]
+    },
+    {
+        "ID": "19, 179",
+        "index": "0x2b",
+        "attributes": "13b3000037000000ff00000003000400",
+        "text": [
+            "Bien sûrr, le doyen a gagné!",
+            "Il l'a balancée horrs du cerrcle",
+            "en un rrien de temps!"
+        ]
+    },
+    {
+        "ID": "19, 180",
+        "index": "0x2c",
+        "attributes": "13b4000037000000ff0000000b000400",
+        "text": [
+            "C'est bien ce que je pensais...",
+            "Entrre un humain et un Gorron, ",
+            "il y a quand même une sacrrée ",
+            "différrence de {1a06ff000001}poids{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "19, 181",
+        "index": "0x2d",
+        "attributes": "13b5000037000000ff0000000b000400",
+        "text": [
+            "Patrron, vous avez entendu? Il y a",
+            "eu un autrre combat de sumo!"
+        ]
+    },
+    {
+        "ID": "19, 182",
+        "index": "0x2e",
+        "attributes": "13b6000037000000ff00000003000400",
+        "text": [
+            "Oui, c'est la même humaine qui a ",
+            "rretenté sa chance, et il s'est fait",
+            "jeter, encorre une fois..."
+        ]
+    },
+    {
+        "ID": "19, 183",
+        "index": "0x2f",
+        "attributes": "13b7000037000000ff0000000b000400",
+        "text": [
+            "La perrsévérrance, c'est bien, ",
+            "mais elle ne serrt à rrien",
+            "si on ne gagne jamais!"
+        ]
+    },
+    {
+        "ID": "19, 184",
+        "index": "0x30",
+        "attributes": "13b8000037000000ff00000003000400",
+        "text": [
+            "Evidemment, le doyen a gagné!",
+            "Mais c'était un beau combat..."
+        ]
+    },
+    {
+        "ID": "19, 185",
+        "index": "0x31",
+        "attributes": "13b9000037000000ff0000000b000400",
+        "text": [
+            "Oh? Eh ben, pourr une humaine, ",
+            "tu es sacrrément forrte!",
+            "N'hésite pas à rrevenirr te battrre!"
+        ]
+    },
+    {
+        "ID": "19, 186",
+        "index": "0x32",
+        "attributes": "13ba000037000000ff00000003030400",
+        "text": [
+            "Notrre chef nous a prrévenus,",
+            "tu es librre de passer ici ",
+            "quand tu le voudrras!"
+        ]
+    },
+    {
+        "ID": "19, 187",
+        "index": "0x33",
+        "attributes": "13bb000037000000ff00000000030400",
+        "text": [
+            "Tu as envie de monter? {1a05000020}"
+        ]
+    },
+    {
+        "ID": "19, 188",
+        "index": "0x34",
+        "attributes": "13bc000037000000ff00000000030400",
+        "text": [
+            "{1a0600000801}Oui",
+            "{1a0600000802}Non"
+        ]
+    },
+    {
+        "ID": "19, 189",
+        "index": "0x35",
+        "attributes": "13bd000037000000ff00080003030400",
+        "text": [
+            "Parrfait! Alorrs monte surr",
+            "mon dos!"
+        ]
+    },
+    {
+        "ID": "19, 190",
+        "index": "0x36",
+        "attributes": "13be000037000000ff00000003030400",
+        "text": [
+            "Quand tu voudrras monter, rreviens",
+            "me voirr, je te prropulserrai! "
+        ]
+    },
+    {
+        "ID": "19, 191",
+        "index": "0x37",
+        "attributes": "13bf000037000000ff00000000020400",
+        "text": [
+            "Tant que notrre doyen n'aurra pas",
+            "donné son accorrd, je ne te ",
+            "laisserrai pas passer!"
+        ]
+    },
+    {
+        "ID": "19, 192",
+        "index": "0x38",
+        "attributes": "13c0000037000000ff00000000000400",
+        "text": [
+            "Le doyen a donné sa perrmission...",
+            "alorrs c'est bon, tu peux passer."
+        ]
+    },
+    {
+        "ID": "19, 193",
+        "index": "0x39",
+        "attributes": "13c1000037000000ff00000000020400",
+        "text": [
+            "Tant que notrre doyen n'aurra pas",
+            "donné son accorrd, je ne te ",
+            "laisserrai pas passer!"
+        ]
+    },
+    {
+        "ID": "19, 194",
+        "index": "0x3a",
+        "attributes": "13c2000037000000ff00000000020400",
+        "text": [
+            "Ce n'est pas pourr rrien que nous",
+            "te laissons entrrer... Tu dois",
+            "sauver notrre chef!"
+        ]
+    },
+    {
+        "ID": "19, 195",
+        "index": "0x3b",
+        "attributes": "13c3000037000000ff00000000010400",
+        "text": [
+            "Je ne vois pas comment une minus",
+            "comme toi pourrrait nous inquiéter!"
+        ]
+    },
+    {
+        "ID": "19, 196",
+        "index": "0x3c",
+        "attributes": "13c4000037000000ff00000000000400",
+        "text": [
+            "Je n'aurrais jamais crru que",
+            "notrre doyen puisse perrdrre..."
+        ]
+    },
+    {
+        "ID": "19, 197",
+        "index": "0x3d",
+        "attributes": "13c5000037000000ff00000000010400",
+        "text": [
+            "Ah, je vois! Notrre doyen a fait",
+            "exprrès de perrdrre... Tu n'aurrais",
+            "jamais pu gagner autrrement!"
+        ]
+    },
+    {
+        "ID": "19, 198",
+        "index": "0x3e",
+        "attributes": "13c6000037000000ff00000004010400",
+        "text": [
+            "Une humaine comme toi n'a rrien",
+            "à fairre ici! Déguerrpis!"
+        ]
+    },
+    {
+        "ID": "19, 199",
+        "index": "0x3f",
+        "attributes": "13c7000037000000ff00000000000400",
+        "text": [
+            "Le cœurr de la montagne est ",
+            "un lieu sacrré dans lequel ",
+            "nous-mêmes n'entrrons que ",
+            "trrès rrarrement."
+        ]
+    },
+    {
+        "ID": "19, 200",
+        "index": "0x40",
+        "attributes": "13c8000037000000ff00000000000400",
+        "text": [
+            "Mais nous ne sommes pas assez",
+            "forrts pourr venirr en aide à notrre",
+            "chef... Nous n'avons pas le choix."
+        ]
+    },
+    {
+        "ID": "19, 201",
+        "index": "0x41",
+        "attributes": "13c9000037000000ff00000000010400",
+        "text": [
+            "Tu n'as aucune chance, à moins",
+            "de trricher!"
+        ]
+    },
+    {
+        "ID": "19, 202",
+        "index": "0x42",
+        "attributes": "13ca000037000000ff00000004000400",
+        "text": [
+            "Mais si tu trriches, tu vas passer",
+            "un sale quarrt d'heurre!"
+        ]
+    },
+    {
+        "ID": "19, 203",
+        "index": "0x43",
+        "attributes": "13cb000037000000ff00000000000400",
+        "text": [
+            "Tu... tu as vrraiment combattu",
+            "sans trricher?"
+        ]
+    },
+    {
+        "ID": "19, 204",
+        "index": "0x44",
+        "attributes": "13cc000037000000ff00000000000400",
+        "text": [
+            "Si je découvrre que tu as trriché,",
+            "ça va aller mal pourr toi..."
+        ]
+    },
+    {
+        "ID": "19, 205",
+        "index": "0x45",
+        "attributes": "13cd000037000000ff00000005020400",
+        "text": [
+            "Quand je pense que les autrres ",
+            "dehorrs n'ont pas pu arrrêter",
+            "une seule humaine comme toi...",
+            "J'ai honte!"
+        ]
+    },
+    {
+        "ID": "19, 206",
+        "index": "0x46",
+        "attributes": "13ce000037000000ff00000000000400",
+        "text": [
+            "Je n'aurrais jamais crru que tu ",
+            "puisses battrre notrre doyen! Mais",
+            "aprrès tout, tu as bien rréussi à",
+            "t'infiltrrer jusqu'ici, alorrs..."
+        ]
+    },
+    {
+        "ID": "19, 207",
+        "index": "0x47",
+        "attributes": "13cf000037000000ff00000000000400",
+        "text": [
+            "Humains ou Gorrons, on ne devrrait",
+            "jamais juger surr l'apparrence..."
+        ]
+    },
+    {
+        "ID": "19, 208",
+        "index": "0x48",
+        "attributes": "13d0000037000000ff00000004010400",
+        "text": [
+            "Si tu ne files pas d'ici vite fait,",
+            "bien fait, je me charrge de toi!"
+        ]
+    },
+    {
+        "ID": "19, 209",
+        "index": "0x49",
+        "attributes": "13d1000037000000ff00000000000400",
+        "text": [
+            "Heurreusement que nous avons ",
+            "obéi au doyen et que nous ",
+            "ne t'avons pas attaqué... "
+        ]
+    },
+    {
+        "ID": "19, 210",
+        "index": "0x4a",
+        "attributes": "13d2000037000000ff00000000000400",
+        "text": [
+            "Peut-êtrre que c'est nous qui ",
+            "aurrions valdingué..."
+        ]
+    },
+    {
+        "ID": "19, 211",
+        "index": "0x4b",
+        "attributes": "13d3000037000000ff00000000000400",
+        "text": [
+            "Notrre doyen, Gorr Cobalt, était",
+            "le chef de la trribu avant qu'il ne ",
+            "laisse la place à Morrock."
+        ]
+    },
+    {
+        "ID": "19, 212",
+        "index": "0x4c",
+        "attributes": "13d4000037000000ff00000000000400",
+        "text": [
+            "Il est peut-êtrre vieux, mais si tu",
+            "ne le prrends pas au sérrieux, tu",
+            "vas t'en morrdrre les doigts..."
+        ]
+    },
+    {
+        "ID": "19, 213",
+        "index": "0x4d",
+        "attributes": "13d5000037000000ff00000000000400",
+        "text": [
+            "Toi qui as vaincu notrre doyen,",
+            "tu serras peut-êtrre en mesurre de",
+            "porrter secourrs à notrre chef..."
+        ]
+    },
+    {
+        "ID": "19, 214",
+        "index": "0x4e",
+        "attributes": "13d6000037000000ff00000000000400",
+        "text": [
+            "Je t'en supplie, aide-nous et lève",
+            "le maléfice qui pèse surr la",
+            "Montagne de la Morrt!"
+        ]
+    },
+    {
+        "ID": "19, 215",
+        "index": "0x4f",
+        "attributes": "13d7000037000000ff00090000020400",
+        "text": [
+            "Aah!",
+            "{1a07000007000f}Pas... pas d'humain ici!"
+        ]
+    },
+    {
+        "ID": "19, 216",
+        "index": "0x50",
+        "attributes": "13d8000037000000ff00000004010400",
+        "text": [
+            "C'est le terrritoirre des {1a06ff000001}Gorrons{1a06ff000000}!",
+            "{1a07000007000f}Aucun humain n'est autorrisé à",
+            "passer! Orrdrre des doyens!"
+        ]
+    },
+    {
+        "ID": "19, 217",
+        "index": "0x51",
+        "attributes": "13d9000037000000ff00000000020400",
+        "text": [
+            "Aaah!",
+            "{1a07000007000f}Encorre elle!"
+        ]
+    },
+    {
+        "ID": "19, 218",
+        "index": "0x52",
+        "attributes": "13da000037000000ff00000004010400",
+        "text": [
+            "T'obstine pas, ça ne serrt à rrien!",
+            "Je vais te jeter dehorrs!"
+        ]
+    },
+    {
+        "ID": "19, 219",
+        "index": "0x53",
+        "attributes": "13db000037000000ff00000003020400",
+        "text": [
+            "Ce n'est pas une avorrton dans ton",
+            "genrre qui va nous rrésister!"
+        ]
+    },
+    {
+        "ID": "19, 220",
+        "index": "0x54",
+        "attributes": "13dc000037000000ff00000005010400",
+        "text": [
+            "Tu as comprris, humaine?  Alorrs",
+            "ne rreviens plus!"
+        ]
+    },
+    {
+        "ID": "19, 221",
+        "index": "0x55",
+        "attributes": "13dd000037000000ff0000000b030400",
+        "text": [
+            "Tout de même, le sumo, ",
+            "on ne s'en lasse pas!"
+        ]
+    },
+    {
+        "ID": "19, 222",
+        "index": "0x56",
+        "attributes": "13de000037000000ff00000000030400",
+        "text": [
+            "C'est bien vrrai... J'espèrre que",
+            "cela va fairre naîtrre des vocations!"
+        ]
+    },
+    {
+        "ID": "19, 223",
+        "index": "0x57",
+        "attributes": "13df000037000000ff00000000000400",
+        "text": [
+            "Tu nous as rrendu un grrand ",
+            "serrvice... Je ne l'oublierrai jamais!"
+        ]
+    },
+    {
+        "ID": "19, 224",
+        "index": "0x58",
+        "attributes": "13e0000037000000ff00000000000400",
+        "text": [
+            "Nous nous sommes surrestimés et",
+            "cela a causé notrre perrte. Nous",
+            "avons perrdu le contrrôle de",
+            "notrre prrécieuse mine."
+        ]
+    },
+    {
+        "ID": "19, 225",
+        "index": "0x59",
+        "attributes": "13e1000037000000ff00000000000400",
+        "text": [
+            "Il ne faut plus que ça se prroduise!",
+            "Nous devons nous rreprrendrre",
+            "en main..."
+        ]
+    },
+    {
+        "ID": "19, 226",
+        "index": "0x5a",
+        "attributes": "13e2000037000000ff000a000d030400",
+        "text": [
+            "Ooh... ça fait du bien de fairre",
+            "trrempette. Ça faisait longtemps!"
+        ]
+    },
+    {
+        "ID": "19, 227",
+        "index": "0x5b",
+        "attributes": "13e3000037000000ff0000000d030400",
+        "text": [
+            "Je suis allé en ville l'autrre jourr, ",
+            "mais l'airr n'y est pas trrès bon et",
+            "je suis trrès fatigué maintenant..."
+        ]
+    },
+    {
+        "ID": "19, 228",
+        "index": "0x5c",
+        "attributes": "13e4000037000000ff0000000d030400",
+        "text": [
+            "J'en ai rras-le-bol d'êtrre garrde du",
+            "corrps! Je ne le ferrai plus jamais!"
+        ]
+    },
+    {
+        "ID": "19, 229",
+        "index": "0x5d",
+        "attributes": "13e5000037000000ff0000000d030400",
+        "text": [
+            "Je rresterrai tout le temps ",
+            "dans les sourrces chaudes!"
+        ]
+    },
+    {
+        "ID": "19, 230",
+        "index": "0x5e",
+        "attributes": "13e6000037000000ff0000000b030400",
+        "text": [
+            "Ces derrniers jourrs, de plus en",
+            "plus de monde vient aux sourrces..."
+        ]
+    },
+    {
+        "ID": "19, 231",
+        "index": "0x5f",
+        "attributes": "13e7000037000000ff00000000030400",
+        "text": [
+            "Oui... Je suis bien content de voirr",
+            "que les autres peuples ont apprris",
+            "à aimer les sourrces therrmales..."
+        ]
+    },
+    {
+        "ID": "19, 232",
+        "index": "0x60",
+        "attributes": "13e8000037000000ff0000000b000400",
+        "text": [
+            "Ces derrniers jourrs, de plus en",
+            "plus de monde vient aux sourrces..."
+        ]
+    },
+    {
+        "ID": "19, 233",
+        "index": "0x61",
+        "attributes": "13e9000037000000ff00000000030400",
+        "text": [
+            "Oui... mais un jourr, j'aimerrais ",
+            "qu'à parrt les Gorrons, il y ait",
+            "d'autrres rraces qui puissent ",
+            "apprrécier les sourrces chaudes..."
+        ]
+    },
+    {
+        "ID": "19, 234",
+        "index": "0x62",
+        "attributes": "13ea000037000000ff00000000000400",
+        "text": [
+            "Les humains s'arrrêtent ici..."
+        ]
+    },
+    {
+        "ID": "19, 235",
+        "index": "0x63",
+        "attributes": "13eb000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "19, 236",
+        "index": "0x64",
+        "attributes": "13ec000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "19, 237",
+        "index": "0x65",
+        "attributes": "13ed000039000000ff00010001010400",
+        "text": [
+            "{1a07ff00010096}{1a05000001}Arrrêtez!{1a05000002}{1a07000004001e}"
+        ]
+    },
+    {
+        "ID": "19, 238",
+        "index": "0x66",
+        "attributes": "13ee000039000000ff00000001000400",
+        "text": [
+            "Contrre cette fille-là, vous n'avez ",
+            "aucune chance, même à plusieurrs!"
+        ]
+    },
+    {
+        "ID": "19, 239",
+        "index": "0x67",
+        "attributes": "13ef000039000000ff00000000000400",
+        "text": [
+            "Je suis le doyen des Gorrons,",
+            "{1a06ff000002}Gorr Cobalt{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "19, 240",
+        "index": "0x68",
+        "attributes": "13f0000039000000ff00000000000400",
+        "text": [
+            "Je dirrige la trribu en l'absence",
+            "de {1a06ff000001}Morrock{1a06ff000000}, notrre {1a06ff000001}chef{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "19, 241",
+        "index": "0x69",
+        "attributes": "13f1000039000000ff00000000000400",
+        "text": [
+            "Tu viens du village d'en bas,",
+            "humaine?"
+        ]
+    },
+    {
+        "ID": "19, 242",
+        "index": "0x6a",
+        "attributes": "13f2000039000000ff00000000000400",
+        "text": [
+            "Je suis imprressionné que tu aies",
+            "pu venirr jusqu'ici. Tu dois êtrre",
+            "trrès forrte... pourr une humaine."
+        ]
+    },
+    {
+        "ID": "19, 243",
+        "index": "0x6b",
+        "attributes": "13f3000039000000ff00000000010400",
+        "text": [
+            "Mais..."
+        ]
+    },
+    {
+        "ID": "19, 244",
+        "index": "0x6c",
+        "attributes": "13f4000039000000ff00000002010400",
+        "text": [
+            "Les mines au-delà de ce point sont",
+            "pourr nous un lieu sacrré, et il est",
+            "horrs de question de laisser ",
+            "un étrranger y entrrer."
+        ]
+    },
+    {
+        "ID": "19, 245",
+        "index": "0x6d",
+        "attributes": "13f5000039000000ff00000003010400",
+        "text": [
+            "A moins que tu ne mesurres ta",
+            "forrce à la mienne... et que tu",
+            "l'emporrtes. En as-tu le courrage?{1a05000020}"
+        ]
+    },
+    {
+        "ID": "19, 246",
+        "index": "0x6e",
+        "attributes": "13f6000039000000ff00000000000400",
+        "text": [
+            "{1a0600000801}Oui",
+            "{1a0600000802}Non"
+        ]
+    },
+    {
+        "ID": "19, 247",
+        "index": "0x6f",
+        "attributes": "13f7000039000000ff00020004000400",
+        "text": [
+            "... Vous tous! Vous avez entendu?"
+        ]
+    },
+    {
+        "ID": "19, 248",
+        "index": "0x70",
+        "attributes": "13f8000039000000ff00000005000400",
+        "text": [
+            "L'humaine à la capuche verrte",
+            "veut rrentrrer chez elle."
+        ]
+    },
+    {
+        "ID": "19, 249",
+        "index": "0x71",
+        "attributes": "13f9000039000000ff00000003010400",
+        "text": [
+            "Accompagnez-la horrs d'ici..."
+        ]
+    },
+    {
+        "ID": "19, 250",
+        "index": "0x72",
+        "attributes": "13fa000039000000ff00030002000400",
+        "text": [
+            "Qu'est-ce qu'il y a, humaine?",
+            "Tu as encorre envie de te battrre? {1a05000020}"
+        ]
+    },
+    {
+        "ID": "19, 251",
+        "index": "0x73",
+        "attributes": "13fb000039000000ff00000003010400",
+        "text": [
+            "Tu es têtue... HA! Montrre-nous",
+            "ce que tu sais fairre!"
+        ]
+    },
+    {
+        "ID": "19, 252",
+        "index": "0x74",
+        "attributes": "13fc000039000000ff00000002000400",
+        "text": [
+            "C'est encorre toi, humaine?",
+            "Qu'est-ce que tu veux cette fois?{1a05000020}"
+        ]
+    },
+    {
+        "ID": "19, 253",
+        "index": "0x75",
+        "attributes": "13fd000039000000ff00000003000400",
+        "text": [
+            "Oui, il vaut mieux pourr toi...",
+            "{1a06ff000001}Léger{1a06ff000000} comme tu l'es, tu n'as",
+            "aucune chance contrre un Gorron..."
+        ]
+    },
+    {
+        "ID": "19, 254",
+        "index": "0x76",
+        "attributes": "13fe000039000000ff00000005010400",
+        "text": [
+            "... Vous autrres,",
+            "accompagnez-la dehorrs..."
+        ]
+    },
+    {
+        "ID": "19, 255",
+        "index": "0x77",
+        "attributes": "13ff000039000000ff00000000000400",
+        "text": [
+            "Qu'est-ce qu'il y a? Tu veux",
+            "encorre autrre chose, humaine?"
+        ]
+    },
+    {
+        "ID": "20, 0",
+        "index": "0x78",
+        "attributes": "1400000039000000ff00000002010400",
+        "text": [
+            "Ou bien quoi? Ne me dis pas que...",
+            "tu as rrassemblé tout ton courrage",
+            "et que tu veux te battrre?{1a05000020}"
+        ]
+    },
+    {
+        "ID": "20, 1",
+        "index": "0x79",
+        "attributes": "1401000039000000ff00040003000400",
+        "text": [
+            "Vrraiment... Pourrquoi pas, si",
+            "tu y tiens tellement..."
+        ]
+    },
+    {
+        "ID": "20, 2",
+        "index": "0x7a",
+        "attributes": "1402000039000000ff00000002000400",
+        "text": [
+            "C'est encorre toi, humaine?",
+            "Qu'est-ce que tu veux cette fois? {1a05000020}"
+        ]
+    },
+    {
+        "ID": "20, 3",
+        "index": "0x7b",
+        "attributes": "1403000039000000ff00000000000400",
+        "text": [
+            "{1a0600000800}Te défier!",
+            "{1a0600000801}Rien, je repartais."
+        ]
+    },
+    {
+        "ID": "20, 4",
+        "index": "0x7c",
+        "attributes": "1404000039000000ff00050004010400",
+        "text": [
+            "Pff... Alorrs disparrais!"
+        ]
+    },
+    {
+        "ID": "20, 5",
+        "index": "0x7d",
+        "attributes": "1405000039000000ff00000000000400",
+        "text": [
+            "Jeune guerrrière... j'aime cette",
+            "lueurr dans ton rregarrd..."
+        ]
+    },
+    {
+        "ID": "20, 6",
+        "index": "0x7e",
+        "attributes": "1406000039000000ff00000000000400",
+        "text": [
+            "Et pourrquoi pas, aprrès tout..."
+        ]
+    },
+    {
+        "ID": "20, 7",
+        "index": "0x7f",
+        "attributes": "1407000039000000ff00000000000400",
+        "text": [
+            "Je suppose que tu as rremarrqué",
+            "les érruptions incessantes..."
+        ]
+    },
+    {
+        "ID": "20, 8",
+        "index": "0x80",
+        "attributes": "1408000039000000ff00000000000400",
+        "text": [
+            "Lorrsque la montagne a changé,",
+            "nous les quatrre {1a06ff000001}doyens{1a06ff000000} et notrre",
+            "{1a06ff000001}chef{1a06ff000000}, {1a06ff000001}Morrock{1a06ff000000}, sommes allés voirr",
+            "ce qui se passait dans la mine."
+        ]
+    },
+    {
+        "ID": "20, 9",
+        "index": "0x81",
+        "attributes": "1409000039000000ff00000000000400",
+        "text": [
+            "Il le fallait... Nous y garrdons un",
+            "{1a06ff000001}trrésor{1a06ff000000} que le Grrand Esprrit",
+            "Orrdinn nous a confié..."
+        ]
+    },
+    {
+        "ID": "20, 10",
+        "index": "0x82",
+        "attributes": "140a000039000000ff00000000000400",
+        "text": [
+            "Mais lorrsque Morrock a touché",
+            "le trrésorr..."
+        ]
+    },
+    {
+        "ID": "20, 11",
+        "index": "0x83",
+        "attributes": "140b000039000000ff00000000000400",
+        "text": [
+            "Il s'est écrroulé... pourr se rrelever",
+            "sous les trraits d'une crréaturre",
+            "effrroyable!"
+        ]
+    },
+    {
+        "ID": "20, 12",
+        "index": "0x84",
+        "attributes": "140c000039000000ff00000000000400",
+        "text": [
+            "La rrage destrructrrice qui l'habite",
+            "s'est déchaînée surr tous ceux qui",
+            "l'ont apprroché... et les érruptions",
+            "ont rredoublé de frréquence..."
+        ]
+    },
+    {
+        "ID": "20, 13",
+        "index": "0x85",
+        "attributes": "140d000039000000ff00000000000400",
+        "text": [
+            "Au prrix de vaillants efforrts, nous",
+            "avons rréussi à l'enferrmer dans",
+            "une salle au plus prrofond de la",
+            "montagne..."
+        ]
+    },
+    {
+        "ID": "20, 14",
+        "index": "0x86",
+        "attributes": "140e000039000000ff00000000000400",
+        "text": [
+            "Mais malheurreusement... nous",
+            "ne pouvons rrien fairre de plus."
+        ]
+    },
+    {
+        "ID": "20, 15",
+        "index": "0x87",
+        "attributes": "140f000039000000ff00000000000400",
+        "text": [
+            "Humaine... Ecoute ma rrequête...",
+            "Tu dois sauver Morrock!"
+        ]
+    },
+    {
+        "ID": "20, 16",
+        "index": "0x88",
+        "attributes": "1410000039000000ff00000000000400",
+        "text": [
+            "Je suis sûrr que c'est le Grrand ",
+            "Esprrit qui a guidé tes pas ",
+            "jusqu'à nous."
+        ]
+    },
+    {
+        "ID": "20, 17",
+        "index": "0x89",
+        "attributes": "1411000039000000ff00000000000400",
+        "text": [
+            "Moi, Gorr Cobalt..."
+        ]
+    },
+    {
+        "ID": "20, 18",
+        "index": "0x8a",
+        "attributes": "1412000039000000ff00000000000400",
+        "text": [
+            "Je rravale ici ma fierrté et te ",
+            "demande à genoux de nous aider,",
+            "pourr le bien de notrre trribu!"
+        ]
+    },
+    {
+        "ID": "20, 19",
+        "index": "0x8b",
+        "attributes": "1413000039000000ff00060002000400",
+        "text": [
+            "... Brraves!"
+        ]
+    },
+    {
+        "ID": "20, 20",
+        "index": "0x8c",
+        "attributes": "1414000039000000ff00000004000400",
+        "text": [
+            "Laissez-la passer!"
+        ]
+    },
+    {
+        "ID": "20, 21",
+        "index": "0x8d",
+        "attributes": "1415000039000000ff00000000000400",
+        "text": [
+            "De nombrreux pièges ont été",
+            "drressés pourr prrotéger notrre",
+            "trrésorr des voleurrs."
+        ]
+    },
+    {
+        "ID": "20, 22",
+        "index": "0x8e",
+        "attributes": "1416000039000000ff00000000000400",
+        "text": [
+            "De plus, depuis que les érruptions",
+            "ont commencé, des monstrres ont",
+            "prris demeurre dans nos galerries."
+        ]
+    },
+    {
+        "ID": "20, 23",
+        "index": "0x8f",
+        "attributes": "1417000039000000ff00000000000400",
+        "text": [
+            "Le chemin serra difficile jusqu'à",
+            "la salle où nous avons enferrmé",
+            "notrre chef, alorrs prréparre ta",
+            "lame, brrave humaine!"
+        ]
+    },
+    {
+        "ID": "20, 24",
+        "index": "0x90",
+        "attributes": "1418000039000000ff00000000000400",
+        "text": [
+            "Humaine! Le chef est rrevenu",
+            "comme si rrien ne s'était passé!"
+        ]
+    },
+    {
+        "ID": "20, 25",
+        "index": "0x91",
+        "attributes": "1419000039000000ff00000001010400",
+        "text": [
+            "Apparremment, il ne se souvient ",
+            "pas de ce qui s'est passé au fond",
+            "de la mine..."
+        ]
+    },
+    {
+        "ID": "20, 26",
+        "index": "0x92",
+        "attributes": "141a000039000000ff00000000000400",
+        "text": [
+            "J'aurrais voulu qu'il te rremerrcie",
+            "en perrsonne, mais... pourr le ",
+            "moment, je prréfèrre le laisser",
+            "se rremettrre de son éprreuve."
+        ]
+    },
+    {
+        "ID": "20, 27",
+        "index": "0x93",
+        "attributes": "141b000039000000ff00000003000400",
+        "text": [
+            "Mais nous n'oublierrons pas ce que",
+            "tu as fait pourr nous! Le peuple",
+            "Gorron serra là pourr t'aider le",
+            "jourr où tu serras en difficulté!"
+        ]
+    },
+    {
+        "ID": "20, 28",
+        "index": "0x94",
+        "attributes": "141c000039000000ff00000000010400",
+        "text": [
+            "Un jourr, nous te rrendrrons ",
+            "serrvice à notrre tourr!"
+        ]
+    },
+    {
+        "ID": "20, 29",
+        "index": "0x95",
+        "attributes": "141d000039000000ff00000003000400",
+        "text": [
+            "Si un jourr tu as un prroblème,",
+            "nous ferrons tout pourr t'aider!"
+        ]
+    },
+    {
+        "ID": "20, 30",
+        "index": "0x96",
+        "attributes": "141e000039000000ff00080000000400",
+        "text": [
+            "Je suis bien content de savoirr",
+            "que la jeune fille a rrecouvrré ",
+            "la mémoirre..."
+        ]
+    },
+    {
+        "ID": "20, 31",
+        "index": "0x97",
+        "attributes": "141f000039000000ff00000003000400",
+        "text": [
+            "Nous avons enfin pu t'aider à",
+            "notrre tourr... même si ce n'est",
+            "qu'un grravillon comparré au poids",
+            "de notrre dette enverrs toi."
+        ]
+    },
+    {
+        "ID": "20, 32",
+        "index": "0x98",
+        "attributes": "1420000039000000ff00000001000400",
+        "text": [
+            "En parrlant de cela... Cette jeune",
+            "humaine est la fille de Bohdan,",
+            "le chef du village de Toal,",
+            "n'est-ce pas?"
+        ]
+    },
+    {
+        "ID": "20, 33",
+        "index": "0x99",
+        "attributes": "1421000039000000ff00000000000400",
+        "text": [
+            "Lorsque nous étions jeunes, nous",
+            "nous sommes souvent affrrontés",
+            "dans le cerrcle... Aaah...",
+            "C'était le bon temps!"
+        ]
+    },
+    {
+        "ID": "20, 34",
+        "index": "0x9a",
+        "attributes": "1422000039000000ff00000000010400",
+        "text": [
+            "Mais je suis surrprris que Bohdan",
+            "puisse avoirr une fille aussi jolie..."
+        ]
+    },
+    {
+        "ID": "20, 35",
+        "index": "0x9b",
+        "attributes": "1423000039000000ff00070001000400",
+        "text": [
+            "... Elle ne peut tenirr ça ",
+            "que de sa mèrre..."
+        ]
+    },
+    {
+        "ID": "20, 36",
+        "index": "0x9c",
+        "attributes": "142400006c000000ff00000000000400",
+        "text": [
+            "Oh, c'est toi, petite dame! Le",
+            "doyen m'a rraconté tes exploits.",
+            "Bon boulot! "
+        ]
+    },
+    {
+        "ID": "20, 37",
+        "index": "0x9d",
+        "attributes": "142500006c000000ff00000000000400",
+        "text": [
+            "Il m'a dit que la fille avait ",
+            "rretrrouvé la mémoirre.",
+            "C'est bien. C'est bien."
+        ]
+    },
+    {
+        "ID": "20, 38",
+        "index": "0x9e",
+        "attributes": "142600006c000000ff00000000000400",
+        "text": [
+            "Quant à toi, tu es sacrrément forrte,",
+            "petit dame, pourr rrevenirr",
+            "indemne du village oublié!"
+        ]
+    },
+    {
+        "ID": "20, 39",
+        "index": "0x9f",
+        "attributes": "142700006c000000ff00000000000400",
+        "text": [
+            "Puisque tu es là, prrofites-en",
+            "pourr te baigner dans nos ",
+            "sourrces chaudes!"
+        ]
+    },
+    {
+        "ID": "20, 40",
+        "index": "0xa0",
+        "attributes": "142800006c000000ff00000000000400",
+        "text": [
+            "Hmm? Qu'est-ce qu'il y a, petit",
+            "dame? Tu veux quelque chose?"
+        ]
+    },
+    {
+        "ID": "20, 41",
+        "index": "0xa1",
+        "attributes": "142900006c000000ff00000000000400",
+        "text": [
+            "Le chef de la trribu des Gorrons,",
+            "c'est {1a06ff000002}Morrock{1a06ff000000}! Et Morrock,",
+            "c'est moi!"
+        ]
+    },
+    {
+        "ID": "20, 42",
+        "index": "0xa2",
+        "attributes": "142a00006c000000ff00000000000400",
+        "text": [
+            "On m'a dit que des monstrres",
+            "avaient passé nos défenses et",
+            "attaqué Cocorrico pendant que",
+            "j'étais... ailleurrs."
+        ]
+    },
+    {
+        "ID": "20, 43",
+        "index": "0xa3",
+        "attributes": "142b00006c000000ff00000000000400",
+        "text": [
+            "Mais maintenant, j'ai envoyé ",
+            "cerrtains de nos brraves en",
+            "rrenforrt, alorrs ne t'inquiète plus!"
+        ]
+    },
+    {
+        "ID": "20, 44",
+        "index": "0xa4",
+        "attributes": "142c00003c000000ff000a0000000400",
+        "text": [
+            "On dirait que l'arme du Héros ",
+            "des temps anciens t'a bien servi."
+        ]
+    },
+    {
+        "ID": "20, 45",
+        "index": "0xa5",
+        "attributes": "142d00003c000000ff00000000000400",
+        "text": [
+            "Il semble que le monde ne soit plus",
+            "si paisible. On ne peut plus se ",
+            "permettre de garder cette arme ",
+            "enfermée dans un coffre..."
+        ]
+    },
+    {
+        "ID": "20, 46",
+        "index": "0xa6",
+        "attributes": "142e00003c000000ff00000000000400",
+        "text": [
+            "Tu n'erres pas sans but, jeune",
+            "humaine. Garde cette arme, tu",
+            "en auras certainement besoin",
+            "dans ta quête..."
+        ]
+    },
+    {
+        "ID": "20, 47",
+        "index": "0xa7",
+        "attributes": "142f000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 48",
+        "index": "0xa8",
+        "attributes": "1430000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 49",
+        "index": "0xa9",
+        "attributes": "1431000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 50",
+        "index": "0xaa",
+        "attributes": "1432000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 51",
+        "index": "0xab",
+        "attributes": "1433000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 52",
+        "index": "0xac",
+        "attributes": "1434000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 53",
+        "index": "0xad",
+        "attributes": "1435000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 54",
+        "index": "0xae",
+        "attributes": "1436000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 55",
+        "index": "0xaf",
+        "attributes": "1437000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 56",
+        "index": "0xb0",
+        "attributes": "1438000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 57",
+        "index": "0xb1",
+        "attributes": "1439000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 58",
+        "index": "0xb2",
+        "attributes": "143a000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 59",
+        "index": "0xb3",
+        "attributes": "143b000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 60",
+        "index": "0xb4",
+        "attributes": "143c000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 61",
+        "index": "0xb5",
+        "attributes": "143d000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 62",
+        "index": "0xb6",
+        "attributes": "143e000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 63",
+        "index": "0xb7",
+        "attributes": "143f000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 64",
+        "index": "0xb8",
+        "attributes": "1440000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 65",
+        "index": "0xb9",
+        "attributes": "1441000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 66",
+        "index": "0xba",
+        "attributes": "1442000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 67",
+        "index": "0xbb",
+        "attributes": "1443000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 68",
+        "index": "0xbc",
+        "attributes": "1444000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 69",
+        "index": "0xbd",
+        "attributes": "1445000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 70",
+        "index": "0xbe",
+        "attributes": "1446000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 71",
+        "index": "0xbf",
+        "attributes": "1447000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 72",
+        "index": "0xc0",
+        "attributes": "1448000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 73",
+        "index": "0xc1",
+        "attributes": "1449000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 74",
+        "index": "0xc2",
+        "attributes": "144a000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 75",
+        "index": "0xc3",
+        "attributes": "144b000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 76",
+        "index": "0xc4",
+        "attributes": "144c000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 77",
+        "index": "0xc5",
+        "attributes": "144d00006c000000ff00000000000400",
+        "text": [
+            "Ugnnh... Ma tête...",
+            "Cette confusion..."
+        ]
+    },
+    {
+        "ID": "20, 78",
+        "index": "0xc6",
+        "attributes": "144e00006c000000ff00000000000400",
+        "text": [
+            "On dirrait que j'ai fait le rroupillon",
+            "du siècle dans la mine..."
+        ]
+    },
+    {
+        "ID": "20, 79",
+        "index": "0xc7",
+        "attributes": "144f00006c000000ff00000000000400",
+        "text": [
+            "Je vais aller prrendrre un bain, ",
+            "ça va me rréveiller..."
+        ]
+    },
+    {
+        "ID": "20, 80",
+        "index": "0xc8",
+        "attributes": "1450000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 81",
+        "index": "0xc9",
+        "attributes": "1451000037000000ff000a000d000400",
+        "text": [
+            "Aaah... L'eau est excellente..."
+        ]
+    },
+    {
+        "ID": "20, 82",
+        "index": "0xca",
+        "attributes": "1452000037000000ff0000000d000400",
+        "text": [
+            "Tiens...? Ben l'humaine, ",
+            "qu'est-ce que tu fais là?"
+        ]
+    },
+    {
+        "ID": "20, 83",
+        "index": "0xcb",
+        "attributes": "1453000037000000ff0000000d000400",
+        "text": [
+            "Pourrtant, il me semble que",
+            "le doyen avait dit de ne laisser",
+            "passer aucun humain jusqu'ici..."
+        ]
+    },
+    {
+        "ID": "20, 84",
+        "index": "0xcc",
+        "attributes": "1454000037000000ff0000000d000400",
+        "text": [
+            "Mais bon, ça ne me concerrne pas.",
+            "Tu peux te rreposer ici si tu veux!"
+        ]
+    },
+    {
+        "ID": "20, 85",
+        "index": "0xcd",
+        "attributes": "1455000037000000ff0000000d000400",
+        "text": [
+            "J'ai entendu dirre qu'il y avait",
+            "des sourrces chaudes aussi dans",
+            "le village de Cocorrico, au pied",
+            "de la montagne."
+        ]
+    },
+    {
+        "ID": "20, 86",
+        "index": "0xce",
+        "attributes": "1456000037000000ff0000000d000400",
+        "text": [
+            "J'espèrre pouvoirr les visiter",
+            "lorrsque nous pourrrons",
+            "de nouveau aller là-bas."
+        ]
+    },
+    {
+        "ID": "20, 87",
+        "index": "0xcf",
+        "attributes": "1457000037000000ff0000000d000400",
+        "text": [
+            "Notrre chef Morrock est rrevenu",
+            "de son entrraînement dans la mine."
+        ]
+    },
+    {
+        "ID": "20, 88",
+        "index": "0xd0",
+        "attributes": "1458000037000000ff0000000d000400",
+        "text": [
+            "Il a orrdonné l'ouverrturre du",
+            "chemin verrs Cocorrico, alorrs",
+            "je pense fairre une excurrsion",
+            "aux sourrces chaudes là-bas."
+        ]
+    },
+    {
+        "ID": "20, 89",
+        "index": "0xd1",
+        "attributes": "1459000037000000ff0000000d000400",
+        "text": [
+            "L'autrre jourr, je suis allé aux",
+            "sourrces chaudes de Cocorrico."
+        ]
+    },
+    {
+        "ID": "20, 90",
+        "index": "0xd2",
+        "attributes": "145a000037000000ff0000000d000400",
+        "text": [
+            "C'est un endrroit bien agrréable,",
+            "mais je prréfèrre avoirr mes aises",
+            "quand je me baigne! Là-bas, la",
+            "sourrce est trrop petite."
+        ]
+    },
+    {
+        "ID": "20, 91",
+        "index": "0xd3",
+        "attributes": "145b000037000000ff00000000000400",
+        "text": [
+            "Alorrs... il parraît que tu as sauvé",
+            "notrre chef?"
+        ]
+    },
+    {
+        "ID": "20, 92",
+        "index": "0xd4",
+        "attributes": "145c000037000000ff00000000000400",
+        "text": [
+            "Je m'excuse de t'avoirr rrefoulé",
+            "sans avoirr écouté ce que tu avais",
+            "à dirre!"
+        ]
+    },
+    {
+        "ID": "20, 93",
+        "index": "0xd5",
+        "attributes": "145d000037000000ff00000000000400",
+        "text": [
+            "Mais viens, si tu veux monter, ",
+            "je peux te prropulser aussi haut",
+            "que tu le veux!{1a05000020}"
+        ]
+    },
+    {
+        "ID": "20, 94",
+        "index": "0xd6",
+        "attributes": "145e000037000000ff00000000000400",
+        "text": [
+            "C'est grrâce à toi si nous pouvons",
+            "rredescendrre de la montagne."
+        ]
+    },
+    {
+        "ID": "20, 95",
+        "index": "0xd7",
+        "attributes": "145f000037000000ff00000000000400",
+        "text": [
+            "Mes compagnons sont allés visiter",
+            "le village de Cocorrico."
+        ]
+    },
+    {
+        "ID": "20, 96",
+        "index": "0xd8",
+        "attributes": "146000003a000000ff00030000000400",
+        "text": [
+            "Nous te devons beaucoup..."
+        ]
+    },
+    {
+        "ID": "20, 97",
+        "index": "0xd9",
+        "attributes": "146100003a000000ff00000000000400",
+        "text": [
+            "Lorrsque les choses se serront",
+            "calmées ici, nous irrons aider",
+            "les habitants de Cocorrico."
+        ]
+    },
+    {
+        "ID": "20, 98",
+        "index": "0xda",
+        "attributes": "146200003a000000ff00000000000400",
+        "text": [
+            "Morrock et les autrres sages",
+            "sont déjà là-bas."
+        ]
+    },
+    {
+        "ID": "20, 99",
+        "index": "0xdb",
+        "attributes": "146300003a000000ff00000000000400",
+        "text": [
+            "Pas d'inquiétude, je peux ",
+            "garrder la mine tout seul!"
+        ]
+    },
+    {
+        "ID": "20, 100",
+        "index": "0xdc",
+        "attributes": "146400003a000000ff00040000000400",
+        "text": [
+            "Gorr Syéni et Gorr Basalt sont allés",
+            "à Cocorrico, et depuis, je ne les ai",
+            "plus rrevus, ils ne rrentrrent pas!"
+        ]
+    },
+    {
+        "ID": "20, 101",
+        "index": "0xdd",
+        "attributes": "146500003a000000ff00000000000400",
+        "text": [
+            "Morrock m'a dit que le village était",
+            "en sécurrité maintenant, mais..."
+        ]
+    },
+    {
+        "ID": "20, 102",
+        "index": "0xde",
+        "attributes": "146600003a000000ff00000000000400",
+        "text": [
+            "Ce village doit sacrrément ",
+            "leurr plairre..."
+        ]
+    },
+    {
+        "ID": "20, 103",
+        "index": "0xdf",
+        "attributes": "146700003a000000ff00000000000400",
+        "text": [
+            "Gorr Syéni et Gorr Basalt sont ",
+            "au village de Cocorrico."
+        ]
+    },
+    {
+        "ID": "20, 104",
+        "index": "0xe0",
+        "attributes": "146800003a000000ff00000000000400",
+        "text": [
+            "J'ai entendu dirre qu'ils aidaient",
+            "un magasin à fairre du commerrce..."
+        ]
+    },
+    {
+        "ID": "20, 105",
+        "index": "0xe1",
+        "attributes": "146900003a000000ff00000000000400",
+        "text": [
+            "Ils ne sont plus tout jeunes, ",
+            "je ne suis pas sûrr qu'ils serrvent",
+            "à quelque chose..."
+        ]
+    },
+    {
+        "ID": "20, 106",
+        "index": "0xe2",
+        "attributes": "146a00003b000000ff00090006010400",
+        "text": [
+            "Ha ha ha ha ha! Tu t'es bien",
+            "débrouillée!"
+        ]
+    },
+    {
+        "ID": "20, 107",
+        "index": "0xe3",
+        "attributes": "146b00003b000000ff00000000000400",
+        "text": [
+            "J'étais sûr que tu réussirais",
+            "à nous aider."
+        ]
+    },
+    {
+        "ID": "20, 108",
+        "index": "0xe4",
+        "attributes": "146c00003b000000ff00000001000400",
+        "text": [
+            "Et maintenant... C'est à nous",
+            "de te rendre service!"
+        ]
+    },
+    {
+        "ID": "20, 109",
+        "index": "0xe5",
+        "attributes": "146d000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 110",
+        "index": "0xe6",
+        "attributes": "146e000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 111",
+        "index": "0xe7",
+        "attributes": "146f000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 112",
+        "index": "0xe8",
+        "attributes": "1470000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 113",
+        "index": "0xe9",
+        "attributes": "1471000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 114",
+        "index": "0xea",
+        "attributes": "1472000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 115",
+        "index": "0xeb",
+        "attributes": "1473000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 116",
+        "index": "0xec",
+        "attributes": "1474000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 117",
+        "index": "0xed",
+        "attributes": "1475000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 118",
+        "index": "0xee",
+        "attributes": "1476000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 119",
+        "index": "0xef",
+        "attributes": "1477000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 120",
+        "index": "0xf0",
+        "attributes": "1478000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 180",
+        "index": "0xf1",
+        "attributes": "14b4000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 181",
+        "index": "0xf2",
+        "attributes": "14b5000037000000ff000b0000030400",
+        "text": [
+            "Bonjourr!"
+        ]
+    },
+    {
+        "ID": "20, 182",
+        "index": "0xf3",
+        "attributes": "14b6000037000000ff00000003000400",
+        "text": [
+            "{1a09030000000001fa}Achetez un souvenirr de nos",
+            "sourrces therrmales! {1a0500001b}{1a05000015}{1a070000040000}"
+        ]
+    },
+    {
+        "ID": "20, 183",
+        "index": "0xf4",
+        "attributes": "14b7000037000000ff00000000000400",
+        "text": [
+            "Mais, vous n'avez pas d'arrc? ",
+            "Ça ne vous serrvirrait à rrien",
+            "de m'acheter des flèches!"
+        ]
+    },
+    {
+        "ID": "20, 184",
+        "index": "0xf5",
+        "attributes": "14b8000037000000ff00000000000400",
+        "text": [
+            "Il n'y a plus de place dans votrre",
+            "carrquois. Rrevenez quand il vous",
+            "rresterra moins de flèches!"
+        ]
+    },
+    {
+        "ID": "20, 185",
+        "index": "0xf6",
+        "attributes": "14b9000037000000ff00000000000400",
+        "text": [
+            "Les {1a06ff000008}10 flèches {1a06ff000000}coûtent {1a06ff000006}10 rrubis{1a06ff000000}.",
+            "Vous en voulez? {1a05000020}"
+        ]
+    },
+    {
+        "ID": "20, 186",
+        "index": "0xf7",
+        "attributes": "14ba000037000000ff00000000000400",
+        "text": [
+            "Les {1a06ff000008}10 flèches {1a06ff000000}coûtent {1a06ff000006}10 rrubis{1a06ff000000},",
+            "je ne les vendrrai pas moins cherr!"
+        ]
+    },
+    {
+        "ID": "20, 187",
+        "index": "0xf8",
+        "attributes": "14bb000037000000ff00000000000400",
+        "text": [
+            "{1a0600000801}J'achète.",
+            "{1a0600000802}Une autre fois."
+        ]
+    },
+    {
+        "ID": "20, 188",
+        "index": "0xf9",
+        "attributes": "14bc000037000000ff00000003030400",
+        "text": [
+            "Merrci beaucoup!"
+        ]
+    },
+    {
+        "ID": "20, 189",
+        "index": "0xfa",
+        "attributes": "14bd000037000000ff00000000000400",
+        "text": [
+            "L'{1a06ff000008}huile à lanterrne{1a06ff000000} coûte {1a06ff000006}20",
+            "rrubis{1a06ff000000}, vous en voulez? {1a05000020}"
+        ]
+    },
+    {
+        "ID": "20, 190",
+        "index": "0xfb",
+        "attributes": "14be000037000000ff00000000000400",
+        "text": [
+            "L'{1a06ff000008}huile à lanterrne{1a06ff000000} coûte {1a06ff000006}20 rrubis{1a06ff000000}",
+            "et pas un de moins!"
+        ]
+    },
+    {
+        "ID": "20, 191",
+        "index": "0xfc",
+        "attributes": "14bf000037000000ff00000000000400",
+        "text": [
+            "Il vous faut un {1a06ff000001}flacon vide{1a06ff000000}",
+            "ou une {1a06ff000001}lanterrne{1a06ff000000} avec la rréserrve",
+            "entamée!"
+        ]
+    },
+    {
+        "ID": "20, 192",
+        "index": "0xfd",
+        "attributes": "14c0000037000000ff00000000000400",
+        "text": [
+            "Il vous rreste de l'huile mais",
+            "je peux rremplirr votrre rréserrve.",
+            "Ça coûterra toujourrs {1a06ff000006}20 rrubis{1a06ff000000}.{1a05000020}"
+        ]
+    },
+    {
+        "ID": "20, 193",
+        "index": "0xfe",
+        "attributes": "14c1000037000000ff00000000000400",
+        "text": [
+            "Les {1a06ff000001}2 gorrgées {1a06ff000000}de {1a06ff000008}lait {1a06ff000000}coûtent",
+            "{1a06ff000006}20 rrubis{1a06ff000000}, vous en voulez? {1a05000020}"
+        ]
+    },
+    {
+        "ID": "20, 194",
+        "index": "0xff",
+        "attributes": "14c2000037000000ff00000000000400",
+        "text": [
+            "Les {1a06ff000001}2 gorrgées {1a06ff000000}de {1a06ff000008}lait {1a06ff000000}coûtent",
+            "{1a06ff000006}20 rrubis {1a06ff000000}et pas un de moins!"
+        ]
+    },
+    {
+        "ID": "20, 195",
+        "index": "0x100",
+        "attributes": "14c3000037000000ff00000000000400",
+        "text": [
+            "Je ne peux pas vous vendrre de {1a06ff000008}lait{1a06ff000000}",
+            "si vous n'avez pas de {1a06ff000001}flacon vide{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "20, 196",
+        "index": "0x101",
+        "attributes": "14c4000037000000ff00000000000400",
+        "text": [
+            "Merrci beaucoup! Laissez-moi",
+            "rremplirr votrre flacon..."
+        ]
+    },
+    {
+        "ID": "20, 197",
+        "index": "0x102",
+        "attributes": "14c5000037000000ff00000000000400",
+        "text": [
+            "Merrci beaucoup!",
+            "Voici votrre huile..."
+        ]
+    },
+    {
+        "ID": "20, 198",
+        "index": "0x103",
+        "attributes": "14c6000037000000ff00000000000400",
+        "text": [
+            "Merrci beaucoup!",
+            "Je rremplis votrre lanterrne..."
+        ]
+    },
+    {
+        "ID": "20, 199",
+        "index": "0x104",
+        "attributes": "14c7000037000000ff00000003000400",
+        "text": [
+            "Si vous rrepassez dans le coin,",
+            "même simplement pourr un bain,",
+            "rrevenez nous voirr!"
+        ]
+    },
+    {
+        "ID": "20, 200",
+        "index": "0x105",
+        "attributes": "14c8000037000000ff00000000000400",
+        "text": [
+            "{1a09030000000001fb}Vous pouvez rregarrder ",
+            "les marrchandises avec {1a0500001b}{1a05000015}! {1a070000040000}"
+        ]
+    },
+    {
+        "ID": "20, 201",
+        "index": "0x106",
+        "attributes": "14c9000037000000ff00000000000400",
+        "text": [
+            "Le {1a06ff000008}bouclier de bois{1a06ff000000} fait {1a06ff000006}50 rrubis{1a06ff000000},",
+            "vous le voulez?{1a05000020}"
+        ]
+    },
+    {
+        "ID": "20, 202",
+        "index": "0x107",
+        "attributes": "14ca000037000000ff00000000000400",
+        "text": [
+            "Le {1a06ff000008}bouclier de bois{1a06ff000000} fait {1a06ff000006}50 rrubis{1a06ff000000},",
+            "je ne le vendrrai pas moins cherr!"
+        ]
+    },
+    {
+        "ID": "20, 203",
+        "index": "0x108",
+        "attributes": "14cb000037000000ff00000000000400",
+        "text": [
+            "Un deuxième bouclier ne vous",
+            "serrvirrait à rrien..."
+        ]
+    },
+    {
+        "ID": "20, 204",
+        "index": "0x109",
+        "attributes": "14cc000037000000ff00000000000400",
+        "text": [
+            "Vous avez déjà prresque le même",
+            "bouclier, celui-ci ne vous serrvirra",
+            "à rrien."
+        ]
+    },
+    {
+        "ID": "20, 205",
+        "index": "0x10a",
+        "attributes": "14cd000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 206",
+        "index": "0x10b",
+        "attributes": "14ce000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 207",
+        "index": "0x10c",
+        "attributes": "14cf000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 208",
+        "index": "0x10d",
+        "attributes": "14d0000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 209",
+        "index": "0x10e",
+        "attributes": "14d1000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "20, 210",
+        "index": "0x10f",
+        "attributes": "14d2000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 24",
+        "index": "0x110",
+        "attributes": "1518000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 25",
+        "index": "0x111",
+        "attributes": "151900002f000000ff000e000c070400",
+        "text": [
+            "Il fait toujours très chaud par ici..."
+        ]
+    },
+    {
+        "ID": "21, 26",
+        "index": "0x112",
+        "attributes": "151a00002f000000ff0000000c070400",
+        "text": [
+            "A ce rythme-là, je vais vite",
+            "finir séché..."
+        ]
+    },
+    {
+        "ID": "21, 27",
+        "index": "0x113",
+        "attributes": "151b00002f000000ff0000000d080400",
+        "text": [
+            "Je viens faire une cure ici de temps",
+            "en temps... {1a07000007000a}Ah, je me sens revivre!"
+        ]
+    },
+    {
+        "ID": "21, 28",
+        "index": "0x114",
+        "attributes": "151c00002f000000ff000e000e090400",
+        "text": [
+            "Ooohhh... {1a07000007000a} je crois que je suis ",
+            "resté trop longtemps dans l'eau..."
+        ]
+    },
+    {
+        "ID": "21, 29",
+        "index": "0x115",
+        "attributes": "151d000038000000ff00000005090400",
+        "text": [
+            "Je m'entrraîne à rretenirr ma",
+            "rrespirration sous l'eau, alorrs",
+            "ne me dérrange pas!"
+        ]
+    },
+    {
+        "ID": "21, 30",
+        "index": "0x116",
+        "attributes": "151e000038000000ff00000005000400",
+        "text": [
+            "... Le plus bizarrre, c'est que j'ai",
+            "beau rrester des heurres sous",
+            "l'eau, je n'ai jamais besoin de",
+            "rrespirer..."
+        ]
+    },
+    {
+        "ID": "21, 31",
+        "index": "0x117",
+        "attributes": "151f000038000000ff00000000000400",
+        "text": [
+            "... Ma prrésence ici t'intrrigue, ",
+            "n'est-ce pas? C'est vrrai qu'il y a ",
+            "de quoi se poser des questions...",
+            "{1a07000007001e}Mais brravo pourr m'avoirr trrouvé!"
+        ]
+    },
+    {
+        "ID": "21, 32",
+        "index": "0x118",
+        "attributes": "1520000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 33",
+        "index": "0x119",
+        "attributes": "1521000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 34",
+        "index": "0x11a",
+        "attributes": "1522000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 35",
+        "index": "0x11b",
+        "attributes": "1523000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 36",
+        "index": "0x11c",
+        "attributes": "1524000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 37",
+        "index": "0x11d",
+        "attributes": "1525000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 38",
+        "index": "0x11e",
+        "attributes": "1526000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 39",
+        "index": "0x11f",
+        "attributes": "1527000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 40",
+        "index": "0x120",
+        "attributes": "1528000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 41",
+        "index": "0x121",
+        "attributes": "1529000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 42",
+        "index": "0x122",
+        "attributes": "152a000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 43",
+        "index": "0x123",
+        "attributes": "152b000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 44",
+        "index": "0x124",
+        "attributes": "152c000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 45",
+        "index": "0x125",
+        "attributes": "152d000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 46",
+        "index": "0x126",
+        "attributes": "152e000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 47",
+        "index": "0x127",
+        "attributes": "152f000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 48",
+        "index": "0x128",
+        "attributes": "1530000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 49",
+        "index": "0x129",
+        "attributes": "1531000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 50",
+        "index": "0x12a",
+        "attributes": "1532000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 51",
+        "index": "0x12b",
+        "attributes": "1533000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 52",
+        "index": "0x12c",
+        "attributes": "1534000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 53",
+        "index": "0x12d",
+        "attributes": "1535000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 54",
+        "index": "0x12e",
+        "attributes": "1536000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 55",
+        "index": "0x12f",
+        "attributes": "1537000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 56",
+        "index": "0x130",
+        "attributes": "1538000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 57",
+        "index": "0x131",
+        "attributes": "1539000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 58",
+        "index": "0x132",
+        "attributes": "153a000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 59",
+        "index": "0x133",
+        "attributes": "153b000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 60",
+        "index": "0x134",
+        "attributes": "153c000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 61",
+        "index": "0x135",
+        "attributes": "153d000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 62",
+        "index": "0x136",
+        "attributes": "153e000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 63",
+        "index": "0x137",
+        "attributes": "153f000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 64",
+        "index": "0x138",
+        "attributes": "1540000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 65",
+        "index": "0x139",
+        "attributes": "1541000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 66",
+        "index": "0x13a",
+        "attributes": "1542000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 67",
+        "index": "0x13b",
+        "attributes": "1543000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 68",
+        "index": "0x13c",
+        "attributes": "1544000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 69",
+        "index": "0x13d",
+        "attributes": "1545000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 70",
+        "index": "0x13e",
+        "attributes": "1546000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 71",
+        "index": "0x13f",
+        "attributes": "1547000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 72",
+        "index": "0x140",
+        "attributes": "1548000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 73",
+        "index": "0x141",
+        "attributes": "1549000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 74",
+        "index": "0x142",
+        "attributes": "154a000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 75",
+        "index": "0x143",
+        "attributes": "154b000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 76",
+        "index": "0x144",
+        "attributes": "154c000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 77",
+        "index": "0x145",
+        "attributes": "154d000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 78",
+        "index": "0x146",
+        "attributes": "154e000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 79",
+        "index": "0x147",
+        "attributes": "154f000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 80",
+        "index": "0x148",
+        "attributes": "1550000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 81",
+        "index": "0x149",
+        "attributes": "1551000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 82",
+        "index": "0x14a",
+        "attributes": "1552000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 83",
+        "index": "0x14b",
+        "attributes": "1553000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 84",
+        "index": "0x14c",
+        "attributes": "1554000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 85",
+        "index": "0x14d",
+        "attributes": "1555000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 86",
+        "index": "0x14e",
+        "attributes": "1556000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 87",
+        "index": "0x14f",
+        "attributes": "1557000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 88",
+        "index": "0x150",
+        "attributes": "1558000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 89",
+        "index": "0x151",
+        "attributes": "1559000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 90",
+        "index": "0x152",
+        "attributes": "155a000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 91",
+        "index": "0x153",
+        "attributes": "155b000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 92",
+        "index": "0x154",
+        "attributes": "155c000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 93",
+        "index": "0x155",
+        "attributes": "155d000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 94",
+        "index": "0x156",
+        "attributes": "155e000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 95",
+        "index": "0x157",
+        "attributes": "155f000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 96",
+        "index": "0x158",
+        "attributes": "1560000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 97",
+        "index": "0x159",
+        "attributes": "1561000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 98",
+        "index": "0x15a",
+        "attributes": "1562000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 99",
+        "index": "0x15b",
+        "attributes": "1563000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 100",
+        "index": "0x15c",
+        "attributes": "1564000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 101",
+        "index": "0x15d",
+        "attributes": "1565000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 102",
+        "index": "0x15e",
+        "attributes": "1566000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 103",
+        "index": "0x15f",
+        "attributes": "1567000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 104",
+        "index": "0x160",
+        "attributes": "1568000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 105",
+        "index": "0x161",
+        "attributes": "1569000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 106",
+        "index": "0x162",
+        "attributes": "156a000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 107",
+        "index": "0x163",
+        "attributes": "156b000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 108",
+        "index": "0x164",
+        "attributes": "156c000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 109",
+        "index": "0x165",
+        "attributes": "156d000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 110",
+        "index": "0x166",
+        "attributes": "156e000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 111",
+        "index": "0x167",
+        "attributes": "156f000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 112",
+        "index": "0x168",
+        "attributes": "1570000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 113",
+        "index": "0x169",
+        "attributes": "1571000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 114",
+        "index": "0x16a",
+        "attributes": "1572000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 115",
+        "index": "0x16b",
+        "attributes": "1573000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 116",
+        "index": "0x16c",
+        "attributes": "1574000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 117",
+        "index": "0x16d",
+        "attributes": "1575000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 118",
+        "index": "0x16e",
+        "attributes": "1576000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 119",
+        "index": "0x16f",
+        "attributes": "1577000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "21, 120",
+        "index": "0x170",
+        "attributes": "1578000003000100ff00000000000400",
+        "text": [
+            "{1a06ff000008}Bouclier de bois {1a06ff000000} {1a06ff000006}50 rubis{1a06ff000000}",
+            "Il rrisque de se consumer au",
+            "contact du feu, mais il rreste",
+            "trrès utile."
+        ]
+    },
+    {
+        "ID": "21, 121",
+        "index": "0x171",
+        "attributes": "1579000003000100ff00000000000400",
+        "text": [
+            "{1a06ff000008}Lait (2 gorgées) {1a06ff000000} {1a06ff000006}20 rubis{1a06ff000000}",
+            "En ce moment, il est trrès en vogue",
+            "de boirre son lait d'un trrait",
+            "au sorrtirr du bain!"
+        ]
+    },
+    {
+        "ID": "21, 122",
+        "index": "0x172",
+        "attributes": "157a000003000100ff00000000000400",
+        "text": [
+            "{1a06ff000008}Huile à lanterne {1a06ff000000} {1a06ff000006}20 rubis{1a06ff000000}",
+            "Le chemin qui mène à la montagne",
+            "est d'un noirr d'encrre la nuit!",
+            "Pensez à vérrifier votrre huile!"
+        ]
+    },
+    {
+        "ID": "21, 123",
+        "index": "0x173",
+        "attributes": "157b000003000100ff00000000000400",
+        "text": [
+            "{1a06ff000008}Flèches (lot de 10) {1a06ff000000} {1a06ff000006}10 rubis{1a06ff000000}",
+            "Il y a peu de magasins dans le coin,",
+            "alorrs achetez un peu plus dès que",
+            "vous en avez l'occasion!"
+        ]
+    },
+    {
+        "ID": "21, 124",
+        "index": "0x174",
+        "attributes": "157c000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 112",
+        "index": "0x175",
+        "attributes": "1770000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 113",
+        "index": "0x176",
+        "attributes": "17710000150d0000ff00020000000400",
+        "text": [
+            "Oh oh...{1a07000007000a} Ça a l'air bien dangereux,",
+            "ce truc..."
+        ]
+    },
+    {
+        "ID": "23, 114",
+        "index": "0x177",
+        "attributes": "17720000150d0000ff00020000000400",
+        "text": [
+            "La Montagne de la Mort tient à sa",
+            "réputation, on dirait...",
+            "{1a07000007000f}{1a05010014}Ksh ksh ksh!"
+        ]
+    },
+    {
+        "ID": "23, 115",
+        "index": "0x178",
+        "attributes": "17730000150d0000ff00000000000400",
+        "text": [
+            "Ce truc...{1a07000007000f} Ça fait un moment qu'il",
+            "est là, mais il est encore aussi",
+            "chaud qu'avant... {1a05000020}"
+        ]
+    },
+    {
+        "ID": "23, 116",
+        "index": "0x179",
+        "attributes": "17740000150d0000ff00000000000400",
+        "text": [
+            "Un caillou aussi gros et aussi",
+            "chaud, ça devrait suffire à",
+            "décongeler un village Zora, non?"
+        ]
+    },
+    {
+        "ID": "23, 117",
+        "index": "0x17a",
+        "attributes": "17750000150d0000ff00020000000400",
+        "text": [
+            "Mais si tu comptes en faire quelque",
+            "chose de bien précis, je peux ",
+            "peut-être t'aider à le déplacer..."
+        ]
+    },
+    {
+        "ID": "23, 118",
+        "index": "0x17b",
+        "attributes": "1776000015000000ff00020000000400",
+        "text": [
+            "{1a0600000801}Téléporte-le.",
+            "{1a0600000802}Tu as une idée?"
+        ]
+    },
+    {
+        "ID": "23, 119",
+        "index": "0x17c",
+        "attributes": "1777000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 120",
+        "index": "0x17d",
+        "attributes": "1778000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 121",
+        "index": "0x17e",
+        "attributes": "1779000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 122",
+        "index": "0x17f",
+        "attributes": "177a000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 123",
+        "index": "0x180",
+        "attributes": "177b000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 124",
+        "index": "0x181",
+        "attributes": "177c000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 125",
+        "index": "0x182",
+        "attributes": "177d000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 126",
+        "index": "0x183",
+        "attributes": "177e000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 127",
+        "index": "0x184",
+        "attributes": "177f000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 128",
+        "index": "0x185",
+        "attributes": "1780000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 129",
+        "index": "0x186",
+        "attributes": "1781000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 130",
+        "index": "0x187",
+        "attributes": "1782000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 131",
+        "index": "0x188",
+        "attributes": "1783000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 132",
+        "index": "0x189",
+        "attributes": "1784000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 133",
+        "index": "0x18a",
+        "attributes": "1785000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 134",
+        "index": "0x18b",
+        "attributes": "1786000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 135",
+        "index": "0x18c",
+        "attributes": "1787000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 136",
+        "index": "0x18d",
+        "attributes": "1788000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 137",
+        "index": "0x18e",
+        "attributes": "1789000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 138",
+        "index": "0x18f",
+        "attributes": "178a000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 139",
+        "index": "0x190",
+        "attributes": "178b000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 140",
+        "index": "0x191",
+        "attributes": "178c000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 141",
+        "index": "0x192",
+        "attributes": "178d000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "23, 142",
+        "index": "0x193",
+        "attributes": "178e000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 88",
+        "index": "0x194",
+        "attributes": "1b58000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 89",
+        "index": "0x195",
+        "attributes": "1b590000150d0000ff00010000000400",
+        "text": [
+            "Quoi, qu'est-ce qu'il y a?"
+        ]
+    },
+    {
+        "ID": "27, 90",
+        "index": "0x196",
+        "attributes": "1b5a0000150d0000ff00010d00000400",
+        "text": [
+            "Mais bon sang, fais quelque chose!",
+            "Il doit bien y avoir quelqu'un dans",
+            "le village ou ailleurs qui aura",
+            "une idée!"
+        ]
+    },
+    {
+        "ID": "27, 91",
+        "index": "0x197",
+        "attributes": "1b5b0000150d0000ff00060d00000400",
+        "text": [
+            "Mais ça ne sert à rien de venir ici!"
+        ]
+    },
+    {
+        "ID": "27, 92",
+        "index": "0x198",
+        "attributes": "1b5c0000150d0000ff00070d00000400",
+        "text": [
+            "Il faut aller voir ce Bohdan, et vite!"
+        ]
+    },
+    {
+        "ID": "27, 93",
+        "index": "0x199",
+        "attributes": "1b5d0000150d0000ff00020d00000400",
+        "text": [
+            "Tiens, ça me fait penser, il est",
+            "tombé un truc énorme ici tout",
+            "à l'heure, non? {1a05010014}Ksh ksh ksh!"
+        ]
+    },
+    {
+        "ID": "27, 94",
+        "index": "0x19a",
+        "attributes": "1b5e0000150d0000ff00010000000400",
+        "text": [
+            "Au fait... un peu plus tôt, l'un des",
+            "Gorons s'est mis en boule pour",
+            "qu'un autre monte sur son dos, et",
+            "il l'a propulsé dans les airs..."
+        ]
+    },
+    {
+        "ID": "27, 95",
+        "index": "0x19b",
+        "attributes": "1b5f0000150d0000ff00020000000400",
+        "text": [
+            "Est-ce que tu ne pourrais pas faire",
+            "pareil? Monter toi aussi sur le dos",
+            "de l'un des nombreux Gorons qui",
+            "se trouvent ici?"
+        ]
+    },
+    {
+        "ID": "27, 96",
+        "index": "0x19c",
+        "attributes": "1b600000150d0000ff00020000000400",
+        "text": [
+            "Qu'est-ce que tu fais? {1a07000007000a}Tu devrais",
+            "les attaquer de face!"
+        ]
+    },
+    {
+        "ID": "27, 97",
+        "index": "0x19d",
+        "attributes": "1b610000150d0000ff00020000000400",
+        "text": [
+            "C'est vrai qu'ils en imposent, mais",
+            "ils ne sont sûrement pas aussi ",
+            "forts qu'ils en ont l'air!"
+        ]
+    },
+    {
+        "ID": "27, 98",
+        "index": "0x19e",
+        "attributes": "1b62000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 99",
+        "index": "0x19f",
+        "attributes": "1b63000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 100",
+        "index": "0x1a0",
+        "attributes": "1b64000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 101",
+        "index": "0x1a1",
+        "attributes": "1b65000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 102",
+        "index": "0x1a2",
+        "attributes": "1b66000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 103",
+        "index": "0x1a3",
+        "attributes": "1b67000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 104",
+        "index": "0x1a4",
+        "attributes": "1b68000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 105",
+        "index": "0x1a5",
+        "attributes": "1b69000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 106",
+        "index": "0x1a6",
+        "attributes": "1b6a000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 107",
+        "index": "0x1a7",
+        "attributes": "1b6b000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 108",
+        "index": "0x1a8",
+        "attributes": "1b6c000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 109",
+        "index": "0x1a9",
+        "attributes": "1b6d000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 110",
+        "index": "0x1aa",
+        "attributes": "1b6e000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 111",
+        "index": "0x1ab",
+        "attributes": "1b6f000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 112",
+        "index": "0x1ac",
+        "attributes": "1b70000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 113",
+        "index": "0x1ad",
+        "attributes": "1b71000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 114",
+        "index": "0x1ae",
+        "attributes": "1b72000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 115",
+        "index": "0x1af",
+        "attributes": "1b73000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 116",
+        "index": "0x1b0",
+        "attributes": "1b74000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 117",
+        "index": "0x1b1",
+        "attributes": "1b75000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 118",
+        "index": "0x1b2",
+        "attributes": "1b76000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 119",
+        "index": "0x1b3",
+        "attributes": "1b77000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 120",
+        "index": "0x1b4",
+        "attributes": "1b78000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 121",
+        "index": "0x1b5",
+        "attributes": "1b79000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 122",
+        "index": "0x1b6",
+        "attributes": "1b7a000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 123",
+        "index": "0x1b7",
+        "attributes": "1b7b000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 124",
+        "index": "0x1b8",
+        "attributes": "1b7c000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 125",
+        "index": "0x1b9",
+        "attributes": "1b7d000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 126",
+        "index": "0x1ba",
+        "attributes": "1b7e000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 127",
+        "index": "0x1bb",
+        "attributes": "1b7f000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 128",
+        "index": "0x1bc",
+        "attributes": "1b80000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 129",
+        "index": "0x1bd",
+        "attributes": "1b81000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 130",
+        "index": "0x1be",
+        "attributes": "1b82000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 131",
+        "index": "0x1bf",
+        "attributes": "1b83000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 132",
+        "index": "0x1c0",
+        "attributes": "1b84000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 133",
+        "index": "0x1c1",
+        "attributes": "1b85000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 134",
+        "index": "0x1c2",
+        "attributes": "1b86000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 135",
+        "index": "0x1c3",
+        "attributes": "1b87000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 136",
+        "index": "0x1c4",
+        "attributes": "1b88000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 137",
+        "index": "0x1c5",
+        "attributes": "1b89000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 138",
+        "index": "0x1c6",
+        "attributes": "1b8a000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 139",
+        "index": "0x1c7",
+        "attributes": "1b8b000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 140",
+        "index": "0x1c8",
+        "attributes": "1b8c000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 141",
+        "index": "0x1c9",
+        "attributes": "1b8d000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 142",
+        "index": "0x1ca",
+        "attributes": "1b8e000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 143",
+        "index": "0x1cb",
+        "attributes": "1b8f000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 144",
+        "index": "0x1cc",
+        "attributes": "1b90000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 145",
+        "index": "0x1cd",
+        "attributes": "1b91000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 146",
+        "index": "0x1ce",
+        "attributes": "1b92000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 147",
+        "index": "0x1cf",
+        "attributes": "1b93000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 148",
+        "index": "0x1d0",
+        "attributes": "1b94000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 149",
+        "index": "0x1d1",
+        "attributes": "1b95000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 150",
+        "index": "0x1d2",
+        "attributes": "1b96000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 151",
+        "index": "0x1d3",
+        "attributes": "1b97000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 152",
+        "index": "0x1d4",
+        "attributes": "1b98000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 153",
+        "index": "0x1d5",
+        "attributes": "1b99000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 154",
+        "index": "0x1d6",
+        "attributes": "1b9a000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 155",
+        "index": "0x1d7",
+        "attributes": "1b9b000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 156",
+        "index": "0x1d8",
+        "attributes": "1b9c000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 157",
+        "index": "0x1d9",
+        "attributes": "1b9d000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 158",
+        "index": "0x1da",
+        "attributes": "1b9e000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 159",
+        "index": "0x1db",
+        "attributes": "1b9f000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 160",
+        "index": "0x1dc",
+        "attributes": "1ba0000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 161",
+        "index": "0x1dd",
+        "attributes": "1ba1000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 162",
+        "index": "0x1de",
+        "attributes": "1ba2000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 163",
+        "index": "0x1df",
+        "attributes": "1ba3000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 164",
+        "index": "0x1e0",
+        "attributes": "1ba4000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 165",
+        "index": "0x1e1",
+        "attributes": "1ba5000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 166",
+        "index": "0x1e2",
+        "attributes": "1ba6000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 167",
+        "index": "0x1e3",
+        "attributes": "1ba7000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 168",
+        "index": "0x1e4",
+        "attributes": "1ba8000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 169",
+        "index": "0x1e5",
+        "attributes": "1ba9000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 170",
+        "index": "0x1e6",
+        "attributes": "1baa000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 171",
+        "index": "0x1e7",
+        "attributes": "1bab000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 172",
+        "index": "0x1e8",
+        "attributes": "1bac000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 173",
+        "index": "0x1e9",
+        "attributes": "1bad000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 174",
+        "index": "0x1ea",
+        "attributes": "1bae000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 175",
+        "index": "0x1eb",
+        "attributes": "1baf000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 176",
+        "index": "0x1ec",
+        "attributes": "1bb0000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 177",
+        "index": "0x1ed",
+        "attributes": "1bb1000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 178",
+        "index": "0x1ee",
+        "attributes": "1bb2000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 179",
+        "index": "0x1ef",
+        "attributes": "1bb3000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 180",
+        "index": "0x1f0",
+        "attributes": "1bb4000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 181",
+        "index": "0x1f1",
+        "attributes": "1bb5000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 182",
+        "index": "0x1f2",
+        "attributes": "1bb6000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 183",
+        "index": "0x1f3",
+        "attributes": "1bb7000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 184",
+        "index": "0x1f4",
+        "attributes": "1bb8000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 185",
+        "index": "0x1f5",
+        "attributes": "1bb9000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 186",
+        "index": "0x1f6",
+        "attributes": "1bba000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 187",
+        "index": "0x1f7",
+        "attributes": "1bbb000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "27, 188",
+        "index": "0x1f8",
+        "attributes": "1bbc000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "58, 152",
+        "index": "0x1f9",
+        "attributes": "3a98000000000000ff00000000000400",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "ID": "59, 198",
+        "index": "0x1fa",
+        "attributes": "3bc6000037000000ff00000003000400",
+        "text": [
+            "{1a05000014}{1a0500001a} Achetez un souvenirr de nos",
+            "sourrces therrmales! {1a070000040000}"
+        ]
+    },
+    {
+        "ID": "59, 216",
+        "index": "0x1fb",
+        "attributes": "3bd8000037000000ff00000000000400",
+        "text": [
+            "Vous pouvez rregarrder ",
+            "les marrchandises avec {1a05000014}{1a0500001a}! {1a070000040000}"
+        ]
+    },
+    {
+        "Section": "FLW1",
+        "Data": "01c6014800000000010000c900010000010000ca00020000010000cb000400000202000100730000010000cc00070000010000cd00060000010000ceffffff0003000002007300000202000100400003010000cf000a0000010000d0ffffff000202000101080005010000d1000d0000010000d2ffffff0001000004000f000001000005ffffff00021800210000000701000006ffffff0001000007ffffff0001000008ffffff0001000009ffffff000100000affffff000100004f001a00000202000100a4001f0300002100a4000001000051001b0000010000500018000001000052ffffff0001000053001d000001000054ffffff0003010022009800000202000a000d0023030a0025000c000003080026000600040202000a000c002702020001003e002902020001003e002b0100008d003200000100007e002a00000100002000340000030b002d000b00000202000a000b002e030a0030000d000002020034000000310100002300340000030000330006000003090034000000080100007d002000000309003500000009031500360000000f0100008e003300000100008fffffff000100001f003a0000030000370098000002020001000600380300003a009a0000020200010040003b0309003d00000016030e003e0003000a0313003f00070001031300400007000103130041000700010313004200070000031300430007000003130044000700010100002d00400000031300450007000103130046000700000313004700070001010000280044000001000029004300000100002a00420000031300480007000001000031ffffff0003130049000700000313004a00070001020200010006004b0313004d000700000313004e000700010313004f00070000031300500007000103130051000700010202000a0032005203130054000700000100002400510000010000250056000001000026005f000001000027ffffff000202000100060055010000280050000001000029004f00000100002a004e00000100002b004d00000100002cffffff0002020001003e0057030a005900320000020200010098005a0100002d004b00000100000b004a00000100000c0065000001000030004800000100000d006b000002020001009a005c0100002e003f00000100002fffffff0001000001003e000001000002006300000300005e009f000002020001009f005f01000055003d000001000056ffffff0002020001010a00610100005e003c00000100005fffffff00020200010040006301000060003b000001000061ffffff00030e00650003000a030e00660003000a030e00670003000a031500680000002d031500690000003c0315006a0000001e030b006b00340000030a006c003400000202000a0033006d0202000a0034006f030b007100330000030a007200330000030b0073003700000202000a00370074030b007600350036030a0077003700000202000a00360078030a007a00360000030a007b003500000202000a0035007c030a007e003400000300007f003a0000030a0080000b000003080081000600020100007b00b00000030d00820000000002020000000000830100006e008f0000030d00850000000002020012000a00860308008800060002030d00890000000002020001003f008a0300008c003f0000030d008d00000000020200000000008e01000072008d00000308009000060002030a0091000b000002020012000a009203080094000600030100006500b9000001000066008900000100006700a100000100006800a200000100006900a300000100006a00a400000100006b008700000100006c008600000100006d00a700000100006e00bc00000100006f00a900000100007000aa0000010000710081000003000095003a003f02020001003a0096030a0098000b000002020012000a009901000073009b0000020200000000009b01000074008d000001000076007700000100007700910000010000780090000001000079008a00000100007a00b700000100007b008f00000100007c00760000030a009d003300000202000a0033009e0202000a003400a0030b00a200330034030b00a3000b000c030000a4003e00000100007f00c000000100008000c100000100008100c200000100008200c300000100008300c400000100008400c500000100008500c600000100008600c700000100008700c800000100008800ce00000100008900ca00000100008a00cf00000100008b00cc00000100008c00be00000202000a000b00a5030a00a7000b0000031500a80000000f030b00a9000d00000100001a00d400000100001cffffff0002020001003e00aa0100001bffffff00030d00ac000000020100003300d700000100003400d8000002020000000000ad01000035ffffff0001000036ffffff0002020001007200af0100003200dd0000030000b1007200000100001d00e000000100001e00e20000030a00b2000b00000202000a000b00b3030b00b5000b000001000037ffffff0001000038ffffff0002020001003e00b602020001004000b80100005800e8000001000059ffffff0001000039ffffff000100003affffff0002020001003e00ba02020001004000bc01000057ffffff000100003bffffff000100003c00f1000002020001003e00be0100003dffffff000100003effffff000100003f00f5000002020001003e00c001000040ffffff000100004100f900000100004300fa000002020001003e00c201000042ffffff0001000044ffffff0002020001004000c4010000d600fd0000010000d7ffffff0001000045ffffff00010000460101000002020001003e00c601000047ffffff0001000048ffffff00010000490105000002020001003e00c80100004affffff000100004b010900000100004d010a000002020001003e00ca0100004cffffff000100004effffff000100005a010c00000100005b0110000002020001016500cc0100005c010f00000100005dffffff00030000ce0165000002020001016d00cf0100009001130000010000910114000001000092011500000100009301180000010000940117000001000095ffffff00030000d1016d000002020001012000d202020001016e00d401000096011c000001000097011d000001000098011e000001000099012100000100009a012000000100009bffffff00030000d6016e0000030d00d700000002010000d501240000010000340125000002020000000000d801000035ffffff0001000036ffffff0002020001016f00da010000d4012a0000030000dc016f000002020001012000dd02020001017500df0100009c012e00000100009d012f00000100009e01300000030000e1017500000100009fffffff00010000a00134000002020001017600e2010000a101350000010000a201360000010000a301370000030000e401760000010000a401390000010000a5013a0000010000a6ffffff00010000d8013c0000010000d9ffffff0002020001010b00e502020001012000e702020001011900e9010000da01410000010000dbffffff00010000dc01430000010000dd01440000010000deffffff00010000df01460000010000e001470000010000e1ffffff00010000e201490000010000e3014a0000010000e4ffffff00010000f2014c0000010000f3014d0000030900eb0000007801000105014f0000030900ec0000007802020019000000ed01000104ffffff00031500ef00000014031000f0fc0c0d0e010000ffffffff0002020018000100f102020006001400f3010000fe015d0000030d00f50000000202020000000000f6030900f800000078030300f90000001401000101015b0000010000f80159000001000100ffffff00030800fa0001006401000171ffffff00010000fd01760000030d00fb00000002010000fbffffff0002020006001400fc030800fe00010066030800ff0001006f010000fbffffff000202000600140100010000fa016e0000030d0102000000020202000000000103030301050000001401000102016c0000010000f8016b00000202001800010106010000fa01760000030d01080000000202020000000001090303010b0000001401000103017500000316010c00000000010000f801720000020200060014010d010000fbffffff000309010f000000780203001c00000110010000fcffffff0001000172ffffff0002020006000a0113010000f7ffffff000309011500000078010000f801830000010000f601800000030d0116000000020202000000000117010000f5ffffff0003110119000e0001020200150056011a010000f4ffffff00020200150054011c02020017001e011e0202001700640120020200150055012202020017003c0124010000f9018e0000030301260000000a01000173ffffff000202000100e401270100000e019200000100000f01930000010000100195000001000011019600000300012900e4000001000062ffffff000202000100e6012a010000120199000001000013019b000001000014019c00000300012c00e6000001000015ffffff000202000a002d012d01000016019f00000100001701a100000100001801a20000030a012f002d000001000019ffffff000100017601a4000001000177ffffff000100017801a7000001000179ffffff000100017b01a90000030d013000000003020300230000013103080134000b000001000116ffffff000100011501ab00000100011101ae000001000112ffffff0001000113ffffff0001000114ffffff000100010601bb0000030d0135000000020202000000000136020200060032013802020015002b013a01000108ffffff0001000107ffffff000309013c000001400303013d00000032010000f901b90000010000f801b3000002020015002a013e01000109ffffff00030801400001002b01000170ffffff000100019a01c100000100019bffffff000100019c01c300000100019dffffff0001000117ffffff00000000000000000000050000ffff00090003000c000800110011001100110011001100120012001200130013001400140014001400140015001500150015001500150011001100190016ffff002c00300022ffffffff00310029002f00360025002e0023002800240021001e0035002bffffffff002600270037002d002b0039001fffffffff00740071006e006a0068006700690047004600490063006200610045005d0060005b005a005500570054006f00660052004c0058ffff0064005c00410059ffff006d005e007000720073006cffffffffffff00a000a8009f009cffff00b500ac00af007d008cffff0096007900850098ffff00970088ffffffff00a500bbffff008b007fffff00b6008000b800b400b3008effff00ae007e0082007500a600ab0084ffff007b009d009affff00ad009400920093009900b1007c00b2ffff007a009e007800ba008300d000bd00c900bfffff00cbffff00d200d100d600d900da00d500dc00d5ffff00df00deffff00e400e300e700e500ea00e900ed00eb00ef00ee00f300f200f700f600fc00f800ff00fe0103010201070106010e010bffff01160112ffff011a0111011f011bffff012301260127012201290122012c01330131012dffff01310132ffff013e013b013f014001420145ffffffff01520151014effff0156015e015801540157015c015affff015f015a01610162016301790179016a01670169016d017901650168017a0170017401790166017301710178ffff017b016401770186017effff0181018dffff017f018a018b018901870184018201840182018c018801840182018501940191ffff019a0198ffff01a0019effff01a501aa01a6ffffffff01b101ba01b801b201b701b601b4ffff01be01bd01b501b800000000000000000000000000000000ff000000000000000000000000000000000000000000000000000000000000ff000000ffff00000000000000000000000000ffff00000000000000ffff0000000000000000000000000000000000000000000000000000ff00000000ff000000000000ffffff00000000ff0000000000ff00000000ff0000ffff0000ff0000ff000000000000ff00000000000000ff000000ff0000000000000000ff000000000000000000ff00ff0000000000000000ff0000ff000000000000000000000000000000000000000000000000ff0000ff00000000ff00000000000000000000ff0000ff000000000000ffff000000ff00000000000000ff00000000000000000000000000000000000000000000ff0000000000ff0000ff00000000000000000000000000000000ff0000ff0000ff000000ffff00000000000000ff00000000000000000000000000000000000000"
+    },
+    {
+        "Section": "FLI1",
+        "Data": "003208000000000000010000000b000000020000000e00000003000000100000000400000017000000050000001c00000006000000380000000700000053000000080000009500000009000000cd0000000a000000d30000000b000000db0000000c000000e10000000d000000e60000000e000000ec0000000f000000f000000010000000f400000011000000fb000000120000010000000013000001040000001400000108000000150000010d00000016000001190000001700000128000000180000012b00000019000001380000001a0000013d0000001b000001480000001d000001ac0000001e000001c4000000650000014b0000006600000150000000780000015300000079000001550000007a000001600000007b0000016f0000007c0000017c0000007d0000017d0000007e0000018f0000007f000001bc00000080000001bf000000c9000001ad000000ca000001af000000cb000001b0000003e900000190000003ea00000197000003eb0000019d000007d1000001a3000007d2000001a8000007d3000001c0000007d4000001c20000"
+    }
+]
