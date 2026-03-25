@@ -2546,7 +2546,7 @@
         "index": "0x11d",
         "attributes": "14cc00001e000000ff001a0006080400",
         "text": [
-            "{1a05000001}Trop fort!!!{1a05000002}",
+            "{1a05000001}Génial!!!{1a05000002}",
             "Tu l'as eu! En plein dans le mille!"
         ]
     },
