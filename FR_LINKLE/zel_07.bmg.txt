@@ -5805,7 +5805,7 @@
         "text": [
             "C'est stupéfiant...{1a07000007000a} A partir",
             "d'aujourd'hui, je t'appellerai",
-            "Maîtresse {1a05000000}!{1a0aff0002023f3f3f3f}{1a09ff0002023f3f3f}"
+            "Maître {1a05000000}!{1a0aff0002023f3f3f3f}{1a09ff0002023f3f3f}"
         ]
     },
     {
@@ -7472,7 +7472,7 @@
         "attributes": "1f88000033000000ff00000000000400",
         "text": [
             "Ce mini-musée de la pêche est",
-            "un don de Maîtresse {1a05000000},",
+            "un don de Maître {1a05000000},",
             "la pêcheuse légendaire!{1a0aff0002023f3f3f3f}"
         ]
     },
@@ -7500,7 +7500,7 @@
         "attributes": "1f8b000033000000ff00000000000400",
         "text": [
             "Ce mini-musée de la pêche est",
-            "un don de Maîtresse {1a05000000},",
+            "un don de Maître {1a05000000},",
             "la pêcheuse légendaire!{1a0aff0002023f3f3f3f}"
         ]
     },
@@ -8742,7 +8742,7 @@
         "attributes": "200f000033000000ff00000000000400",
         "text": [
             "Waaah!{1a07000007000a} Bravo,",
-            "Maîtresse {1a05000000}!"
+            "Maître {1a05000000}!"
         ]
     },
     {
