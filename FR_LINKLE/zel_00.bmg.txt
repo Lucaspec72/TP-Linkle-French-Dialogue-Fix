@@ -23133,7 +23133,7 @@
         "text": [
             "Si tu as besoin de quoi que ce soit,",
             "passe nous voir. Tu seras toujours",
-            "le bienvenu."
+            "la bienvenue."
         ]
     },
     {

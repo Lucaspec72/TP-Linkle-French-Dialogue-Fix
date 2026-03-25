@@ -6469,7 +6469,7 @@
         "index": "0x2cf",
         "attributes": "17850000150d0000ff0002001f1f0400",
         "text": [
-            "Eh bien, tu y es finalement arrivé...",
+            "Eh bien, tu y es finalement arrivée...",
             "Plus qu'un petit effort!"
         ]
     },
