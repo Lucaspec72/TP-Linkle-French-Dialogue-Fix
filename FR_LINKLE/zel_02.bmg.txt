@@ -1217,7 +1217,7 @@
         "index": "0x8b",
         "attributes": "141300002e000000ff00030005000400",
         "text": [
-            "Salut, gamin!"
+            "Salut, gamine!"
         ]
     },
     {

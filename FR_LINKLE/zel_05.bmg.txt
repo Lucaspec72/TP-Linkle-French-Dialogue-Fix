@@ -2053,7 +2053,7 @@
         "text": [
             "Pourr autant, si Gorr Cobalt t'a",
             "laissé passer, c'est que tu es",
-            "vrraiment forrt."
+            "vrraiment forrte."
         ]
     },
     {
@@ -2130,7 +2130,7 @@
         "index": "0xec",
         "attributes": "179400003c000000ff00080000000400",
         "text": [
-            "Oho... Bravo... Tu es parvenu",
+            "Oho... Bravo... Tu es parvenue",
             "jusqu'ici saine et sauve..."
         ]
     },

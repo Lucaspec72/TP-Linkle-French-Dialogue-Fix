@@ -1035,7 +1035,7 @@
             "Les mines au-delà de ce point sont",
             "pourr nous un lieu sacrré, et il est",
             "horrs de question de laisser ",
-            "un étrranger y entrrer."
+            "une étrrangère y entrrer."
         ]
     },
     {
