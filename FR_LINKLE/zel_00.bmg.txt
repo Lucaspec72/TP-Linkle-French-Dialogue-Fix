@@ -15489,7 +15489,7 @@
         "index": "0x6ba",
         "attributes": "0fbd000010000000ff00000000000400",
         "text": [
-            "Montieur, on va voir ma maman?{1a05000020}"
+            "Madame, on va voir ma maman?{1a05000020}"
         ]
     },
     {
@@ -30945,7 +30945,7 @@
         "index": "0xd61",
         "attributes": "09d4000002000000ff00000000000100",
         "text": [
-            "Montieur!"
+            "Madame!"
         ]
     },
     {
@@ -32783,8 +32783,8 @@
         "text": [
             "",
             "",
-            "Montieur, vous zètes trop",
-            "tuper fort!",
+            "Madame, vous zètes trop",
+            "tuper forte!",
             "",
             "",
             "",
@@ -32799,7 +32799,7 @@
             "",
             "Que ce soit sur la terre ou dans",
             "les cieux, tu as toujours été très",
-            "gentil avec nous. Les habitants",
+            "gentille avec nous. Les habitants",
             "de Célestia se joignent à nous",
             "pour te remercier.",
             "",
